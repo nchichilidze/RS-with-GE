@@ -1,0 +1,3809 @@
+movie_id,title,year,tconst
+1,toy story,1995.0,tt0114709
+2,jumanji,1995.0,tt0113497
+3,grumpier old men,1995.0,tt0113228
+4,waiting to exhale,1995.0,tt0114885
+5,father of the bride part ii,1995.0,tt0113041
+6,heat,1995.0,tt0113277
+7,sabrina,1995.0,tt0114319
+8,tom and huck,1995.0,tt0112302
+9,sudden death,1995.0,tt0114576
+10,goldeneye,1995.0,tt0113189
+12,dracula: dead and loving it,1995.0,tt0112896
+13,balto,1995.0,tt0112453
+14,nixon,1995.0,tt0113987
+15,cutthroat island,1995.0,tt0112760
+16,casino,1995.0,tt0112641
+17,sense and sensibility,1995.0,tt0114388
+18,four rooms,1995.0,tt0113101
+19,ace ventura: when nature calls,1995.0,tt0112281
+20,money train,1995.0,tt0113845
+21,get shorty,1995.0,tt0113161
+22,copycat,1995.0,tt0112722
+23,assassins,1995.0,tt0112401
+24,powder,1995.0,tt0114168
+25,leaving las vegas,1995.0,tt0113627
+26,othello,1995.0,tt0114057
+27,now and then,1995.0,tt0114011
+31,dangerous minds,1995.0,tt0112792
+33,wings of courage,1995.0,tt0114952
+34,babe,1995.0,tt0112431
+35,carrington,1995.0,tt0112637
+36,dead man walking,1995.0,tt0112818
+37,across the sea of time,1995.0,tt0112286
+38,it takes two,1995.0,tt0113442
+39,clueless,1995.0,tt0112697
+40,"cry, the beloved country",1995.0,tt0112749
+41,richard iii,1995.0,tt0114279
+42,dead presidents,1995.0,tt0112819
+43,restoration,1995.0,tt0114272
+44,mortal kombat,1995.0,tt0113855
+45,to die for,1995.0,tt0114681
+46,how to make an american quilt,1995.0,tt0113347
+48,pocahontas,1995.0,tt0114148
+48,pocahontas,1995.0,tt9047432
+49,when night is falling,1995.0,tt0114916
+52,mighty aphrodite,1995.0,tt0113819
+53,lamerica,1994.0,tt0110299
+55,georgia,1995.0,tt0113158
+56,kids of the round table,1995.0,tt0113541
+57,home for the holidays,1995.0,tt0113321
+61,eye for an eye,1996.0,tt0116260
+62,mr. holland's opus,1995.0,tt0113862
+63,don't be a menace to south central while drinking your juice in the hood,1996.0,tt0116126
+64,two if by sea,1996.0,tt0118002
+65,bio-dome,1996.0,tt0115683
+66,lawnmower man 2: beyond cyberspace,1996.0,tt0116839
+67,two bits,1995.0,tt0114753
+69,friday,1995.0,tt0113118
+70,from dusk till dawn,1996.0,tt0116367
+71,fair game,1995.0,tt0113010
+72,kicking and screaming,1995.0,tt0113537
+74,bed of roses,1996.0,tt0115644
+75,big bully,1996.0,tt0115676
+76,screamers,1995.0,tt0114367
+77,nico icon,1995.0,tt0113973
+81,things to do in denver when you're dead,1995.0,tt0114660
+83,once upon a time... when we were colored,1995.0,tt0114039
+84,last summer in the hamptons,1995.0,tt0113612
+85,angels and insects,1995.0,tt0112365
+86,white squall,1996.0,tt0118158
+87,dunston checks in,1996.0,tt0116151
+88,black sheep,1996.0,tt0115697
+89,nick of time,1995.0,tt0113972
+92,mary reilly,1996.0,tt0117002
+93,vampire in brooklyn,1995.0,tt0114825
+94,beautiful girls,1996.0,tt0115639
+95,broken arrow,1996.0,tt0115759
+98,shopping,1994.0,tt0111173
+99,heidi fleiss: hollywood madam,1995.0,tt0113283
+100,city hall,1996.0,tt0115907
+101,bottle rocket,1996.0,tt0115734
+102,mr. wrong,1996.0,tt0117102
+103,unforgettable,1996.0,tt0118040
+104,happy gilmore,1996.0,tt0116483
+107,muppet treasure island,1996.0,tt0117110
+108,catwalk,1995.0,tt0112646
+109,headless body in topless bar,1995.0,tt0113276
+110,braveheart,1995.0,tt0112573
+111,taxi driver,1976.0,tt0075314
+112,rumble in the bronx,1995.0,tt0113326
+113,before and after,1996.0,tt0115645
+114,margaret's museum,1995.0,tt0113774
+115,happiness is in the field,1995.0,tt0112556
+116,anne frank remembered,1995.0,tt0112373
+118,if lucy fell,1996.0,tt0116606
+120,race the sun,1996.0,tt0117427
+122,boomerang,1992.0,tt0103859
+123,chungking express,1994.0,tt0109424
+125,flirting with disaster,1996.0,tt0116324
+129,pie in the sky,1995.0,tt0114131
+130,angela,1995.0,tt0112364
+131,frankie starlight,1995.0,tt0113107
+132,jade,1995.0,tt0113451
+133,nueba yol,1995.0,tt0114015
+134,sonic outlaws,1995.0,tt0114500
+135,down periscope,1996.0,tt0116130
+136,from the journals of jean seberg,1995.0,tt0113125
+137,man of the year,1995.0,tt0113756
+139,target,1995.0,tt0114618
+143,gospa,1995.0,tt0113200
+145,bad boys,1995.0,tt0112442
+149,amateur,1994.0,tt0109093
+150,apollo 13,1995.0,tt0112384
+150,apollo 13,1995.0,tt6590506
+151,rob roy,1995.0,tt0114287
+153,batman forever,1995.0,tt0112462
+154,belle de jour,1967.0,tt0061395
+155,beyond rangoon,1995.0,tt0112495
+156,blue in the face,1995.0,tt0112541
+158,casper,1995.0,tt0112642
+159,clockers,1995.0,tt0112688
+160,congo,1995.0,tt0112715
+161,crimson tide,1995.0,tt0112740
+162,crumb,1994.0,tt0109508
+163,desperado,1995.0,tt0112851
+164,devil in a blue dress,1995.0,tt0112857
+167,feast of july,1995.0,tt0113044
+168,first knight,1995.0,tt0113071
+169,free willy 2: the adventure home,1995.0,tt0113114
+170,hackers,1995.0,tt0113243
+171,jeffrey,1995.0,tt0113464
+172,johnny mnemonic,1995.0,tt0113481
+173,judge dredd,1995.0,tt0113492
+174,jury duty,1995.0,tt0113500
+175,kids,1995.0,tt0113540
+176,living in oblivion,1995.0,tt0113677
+177,lord of illusions,1995.0,tt0113690
+178,love & human remains,1993.0,tt0107447
+179,mad love,1995.0,tt0113729
+180,mallrats,1995.0,tt0113749
+181,mighty morphin power rangers: the movie,1995.0,tt0113820
+182,moonlight and valentino,1995.0,tt0113851
+184,nadja,1994.0,tt0110620
+186,nine months,1995.0,tt0113986
+187,party girl,1995.0,tt0114095
+189,reckless,1995.0,tt0114241
+190,safe,1995.0,tt0114323
+193,showgirls,1995.0,tt0114436
+194,smoke,1995.0,tt0114478
+195,something to talk about,1995.0,tt0114496
+196,species,1995.0,tt0114508
+198,strange days,1995.0,tt0114558
+201,three wishes,1995.0,tt0114663
+202,total eclipse,1995.0,tt0114702
+202,total eclipse,1995.0,tt0286234
+203,"to wong foo, thanks for everything! julie newmar",1995.0,tt0114682
+204,under siege 2: dark territory,1995.0,tt0114781
+205,unstrung heroes,1995.0,tt0114798
+206,unzipped,1995.0,tt0114805
+208,waterworld,1995.0,tt0114898
+209,white man's burden,1995.0,tt0114928
+210,wild bill,1995.0,tt0114938
+212,bushwhacked,1995.0,tt0112602
+215,before sunrise,1995.0,tt0112471
+216,billy madison,1995.0,tt0112508
+218,boys on the side,1995.0,tt0112571
+222,circle of friends,1995.0,tt0112679
+223,clerks,1994.0,tt0109445
+225,disclosure,1994.0,tt0109635
+227,drop zone,1994.0,tt0109676
+228,destiny turns on the radio,1995.0,tt0112854
+229,death and the maiden,1994.0,tt0109579
+232,eat drink man woman,1994.0,tt0111797
+233,exotica,1994.0,tt0109759
+234,exit to eden,1994.0,tt0109758
+235,ed wood,1994.0,tt0109707
+236,french kiss,1995.0,tt0113117
+237,forget paris,1995.0,tt0113097
+238,far from home: the adventures of yellow dog,1995.0,tt0113028
+240,hideaway,1995.0,tt0113303
+241,fluke,1995.0,tt0113089
+244,gumby: the movie,1995.0,tt0113234
+246,hoop dreams,1994.0,tt0110057
+247,heavenly creatures,1994.0,tt0110005
+249,immortal beloved,1994.0,tt0110116
+252,i.q.,1994.0,tt0110099
+254,jefferson in paris,1995.0,tt0113463
+256,junior,1994.0,tt0110216
+257,just cause,1995.0,tt0113501
+259,kiss of death,1995.0,tt0113552
+261,little women,1994.0,tt0110367
+263,ladybird ladybird,1994.0,tt0110296
+266,legends of the fall,1994.0,tt0110322
+268,little odessa,1994.0,tt0110365
+270,love affair,1994.0,tt0110391
+271,losing isaiah,1995.0,tt0113691
+273,mary shelley's frankenstein,1994.0,tt0109836
+274,man of the house,1995.0,tt0113755
+275,mixed nuts,1994.0,tt0110538
+276,milk money,1994.0,tt0110516
+277,miracle on 34th street,1994.0,tt0110527
+278,miami rhapsody,1995.0,tt0113808
+279,my family,1995.0,tt0113896
+280,murder in the first,1995.0,tt0113870
+281,nobody's fool,1994.0,tt0110684
+282,nell,1994.0,tt0110638
+283,new jersey drive,1995.0,tt0113967
+287,nina takes a lover,1994.0,tt0110671
+288,natural born killers,1994.0,tt0110632
+289,only you,1994.0,tt0110737
+290,once were warriors,1994.0,tt0110729
+292,outbreak,1995.0,tt0114069
+296,pulp fiction,1994.0,tt0110912
+297,panther,1995.0,tt0114084
+297,panther,1995.0,tt1363478
+299,priest,1994.0,tt0110889
+300,quiz show,1994.0,tt0110932
+304,roommates,1995.0,tt0114296
+306,three colors: red,1994.0,tt0111495
+307,three colors: blue,1993.0,tt0108394
+308,three colors: white,1994.0,tt0111507
+309,"red firecracker, green firecracker",1994.0,tt0110769
+310,rent-a-kid,1995.0,tt0114268
+311,relative fear,1994.0,tt0110965
+312,stuart saves his family,1995.0,tt0114571
+316,stargate,1994.0,tt0111282
+319,shallow grave,1994.0,tt0111149
+320,suture,1993.0,tt0108260
+325,national lampoon's senior trip,1995.0,tt0113936
+327,tank girl,1995.0,tt0114614
+329,star trek: generations,1994.0,tt0111280
+330,tales from the hood,1995.0,tt0114609
+331,tom & viv,1994.0,tt0111454
+332,village of the damned,1995.0,tt0114852
+333,tommy boy,1995.0,tt0114694
+334,vanya on 42nd street,1994.0,tt0111590
+337,what's eating gilbert grape,1993.0,tt0108550
+338,virtuosity,1995.0,tt0114857
+339,while you were sleeping,1995.0,tt0114924
+341,double happiness,1994.0,tt0109655
+342,muriel's wedding,1994.0,tt0110598
+344,ace ventura: pet detective,1994.0,tt0109040
+347,bitter moon,1992.0,tt0104779
+348,bullets over broadway,1994.0,tt0109348
+349,clear and present danger,1994.0,tt0109444
+351,"corrina, corrina",1994.0,tt0109484
+352,crooklyn,1994.0,tt0109504
+354,cobb,1994.0,tt0109450
+356,forrest gump,1994.0,tt0109830
+357,four weddings and a funeral,1994.0,tt0109831
+358,higher learning,1995.0,tt0113305
+359,i like it like that,1994.0,tt0110091
+360,i love trouble,1994.0,tt0110093
+361,it could happen to you,1994.0,tt0110167
+365,little buddha,1993.0,tt0107426
+368,maverick,1994.0,tt0110478
+369,mrs. parker and the vicious circle,1994.0,tt0110588
+370,naked gun 33 1/3: the final insult,1994.0,tt0110622
+372,reality bites,1994.0,tt0110950
+374,richie rich,1994.0,tt0110989
+375,safe passage,1994.0,tt0111054
+377,speed,1994.0,tt0111257
+378,speechless,1994.0,tt0111256
+379,timecop,1994.0,tt0111438
+380,true lies,1994.0,tt0111503
+381,when a man loves a woman,1994.0,tt0111693
+382,wolf,1994.0,tt0111742
+383,wyatt earp,1994.0,tt0111756
+384,bad company,1995.0,tt0112443
+386,s.f.w.,1994.0,tt0111048
+391,jason's lyric,1994.0,tt0110186
+393,street fighter,1994.0,tt0111301
+394,coldblooded,1995.0,tt0112702
+396,fall time,1995.0,tt0113014
+398,frank and ollie,1995.0,tt0113104
+399,girl in the cadillac,1995.0,tt0113173
+400,homage,1995.0,tt0113319
+401,mirage,1995.0,tt0113827
+404,brother minister: the assassination of malcolm x,1994.0,tt0109339
+406,federal hill,1994.0,tt0109785
+407,in the mouth of madness,1995.0,tt0113409
+408,8 seconds,1994.0,tt0109021
+409,above the rim,1994.0,tt0109035
+410,addams family values,1993.0,tt0106220
+413,airheads,1994.0,tt0109068
+415,another stakeout,1993.0,tt0106292
+416,bad girls,1994.0,tt0109198
+417,barcelona,1994.0,tt0109219
+420,beverly hills cop iii,1994.0,tt0109254
+421,black beauty,1994.0,tt0109279
+423,blown away,1994.0,tt0109303
+424,blue chips,1994.0,tt0109305
+425,blue sky,1994.0,tt0109306
+426,body snatchers,1993.0,tt0106452
+427,boxing helena,1993.0,tt0106471
+429,cabin boy,1994.0,tt0109361
+430,calendar girl,1993.0,tt0106505
+431,carlito's way,1993.0,tt0106519
+432,city slickers ii: the legend of curly's gold,1994.0,tt0109439
+433,clean slate,1994.0,tt0109443
+434,cliffhanger,1993.0,tt0106582
+435,coneheads,1993.0,tt0106598
+436,color of night,1994.0,tt0109456
+437,cops and robbersons,1994.0,tt0109480
+439,dangerous game,1993.0,tt0106660
+440,dave,1993.0,tt0106673
+441,dazed and confused,1993.0,tt0106677
+442,demolition man,1993.0,tt0106697
+444,even cowgirls get the blues,1993.0,tt0106834
+445,fatal instinct,1993.0,tt0106873
+446,farewell my concubine,1993.0,tt0106332
+448,fearless,1993.0,tt0106881
+449,fear of a black hat,1993.0,tt0106880
+450,with honors,1994.0,tt0111732
+451,flesh and bone,1993.0,tt0106926
+452,widows' peak,1994.0,tt0111712
+453,for love or money,1993.0,tt0106941
+455,free willy,1993.0,tt0106965
+456,fresh,1994.0,tt0109842
+458,geronimo: an american legend,1993.0,tt0107004
+460,getting even with dad,1994.0,tt0109891
+461,go fish,1994.0,tt0109913
+463,guilty as sin,1993.0,tt0107057
+464,hard target,1993.0,tt0107076
+465,heaven & earth,1993.0,tt0107096
+466,hot shots! part deux,1993.0,tt0107144
+467,live nude girls,1995.0,tt0113674
+470,house party 3,1994.0,tt0110064
+472,i'll do anything,1994.0,tt0110097
+473,in the army now,1994.0,tt0110123
+474,in the line of fire,1993.0,tt0107206
+475,in the name of the father,1993.0,tt0107207
+478,jimmy hollywood,1994.0,tt0110197
+479,judgment night,1993.0,tt0107286
+480,jurassic park,1993.0,tt0107290
+481,kalifornia,1993.0,tt0107302
+483,king of the hill,1993.0,tt0107322
+484,lassie,1994.0,tt0110305
+485,last action hero,1993.0,tt0107362
+486,life with mikey,1993.0,tt0107413
+487,lightning jack,1994.0,tt0110353
+488,m. butterfly,1993.0,tt0107468
+489,made in america,1993.0,tt0107478
+490,malice,1993.0,tt0107497
+492,manhattan murder mystery,1993.0,tt0107507
+493,menace ii society,1993.0,tt0107554
+494,executive decision,1996.0,tt0116253
+496,what happened was...,1994.0,tt0111689
+497,much ado about nothing,1993.0,tt0107616
+498,mr. jones,1993.0,tt0107611
+499,mr. wonderful,1993.0,tt0107613
+500,mrs. doubtfire,1993.0,tt0107614
+501,naked,1993.0,tt0107653
+504,no escape,1994.0,tt0110678
+505,north,1994.0,tt0110687
+508,philadelphia,1993.0,tt0107818
+510,poetic justice,1993.0,tt0107840
+513,radioland murders,1994.0,tt0110939
+516,renaissance man,1994.0,tt0110971
+517,rising sun,1993.0,tt0107969
+519,robocop 3,1993.0,tt0107978
+520,robin hood: men in tights,1993.0,tt0107977
+521,romeo is bleeding,1993.0,tt0107983
+522,romper stomper,1992.0,tt0105275
+523,ruby in paradise,1993.0,tt0108000
+524,rudy,1993.0,tt0108002
+527,schindler's list,1993.0,tt0108052
+529,searching for bobby fischer,1993.0,tt0108065
+530,second best,1994.0,tt0111102
+532,serial mom,1994.0,tt0111127
+534,shadowlands,1993.0,tt0108101
+535,short cuts,1993.0,tt0108122
+537,sirens,1994.0,tt0111201
+538,six degrees of separation,1993.0,tt0108149
+539,sleepless in seattle,1993.0,tt0108160
+540,sliver,1993.0,tt0108162
+541,blade runner,1982.0,tt0083658
+542,son in law,1993.0,tt0108186
+543,so i married an axe murderer,1993.0,tt0108174
+544,striking distance,1993.0,tt0108238
+546,super mario bros.,1993.0,tt0108255
+547,surviving the game,1994.0,tt0111323
+548,terminal velocity,1994.0,tt0111400
+550,threesome,1994.0,tt0111418
+553,tombstone,1993.0,tt0108358
+554,trial by jury,1994.0,tt0111488
+555,true romance,1993.0,tt0108399
+557,mamma roma,1962.0,tt0056215
+559,"paris, france",1993.0,tt0107779
+562,welcome to the dollhouse,1995.0,tt0114906
+563,germinal,1993.0,tt0107002
+564,chasers,1994.0,tt0109403
+567,kika,1993.0,tt0107315
+568,bhaji on the beach,1993.0,tt0106408
+569,little big league,1994.0,tt0110363
+572,foreign student,1994.0,tt0109828
+574,spanking the monkey,1994.0,tt0111252
+577,andre,1994.0,tt0109120
+580,princess caraboo,1994.0,tt0110892
+586,home alone,1990.0,tt0099785
+587,ghost,1990.0,tt0099653
+588,aladdin,1992.0,tt0103639
+589,terminator 2: judgment day,1991.0,tt0103064
+590,dances with wolves,1990.0,tt0099348
+592,batman,1989.0,tt0096895
+594,snow white and the seven dwarfs,1937.0,tt0029583
+595,beauty and the beast,1991.0,tt0101414
+596,pinocchio,1940.0,tt0032910
+597,pretty woman,1990.0,tt0100405
+600,love and a .45,1994.0,tt0110395
+605,one fine day,1996.0,tt0117247
+606,candyman: farewell to the flesh,1995.0,tt0112625
+607,century,1993.0,tt0106537
+608,fargo,1996.0,tt0116282
+609,homeward bound ii: lost in san francisco,1996.0,tt0116552
+610,heavy metal,1981.0,tt0082509
+611,hellraiser: bloodline,1996.0,tt0116514
+613,jane eyre,1996.0,tt0116684
+614,loaded,1994.0,tt0110374
+619,ed,1996.0,tt0116165
+621,my favorite season,1993.0,tt0107471
+624,condition red,1995.0,tt0112712
+628,primal fear,1996.0,tt0117381
+629,rude,1995.0,tt0114305
+630,carried away,1996.0,tt0115837
+631,all dogs go to heaven 2,1996.0,tt0115509
+633,denise calls up,1995.0,tt0112844
+634,theodore rex,1995.0,tt0114658
+636,frisk,1995.0,tt0113122
+637,sgt. bilko,1996.0,tt0117608
+639,girl 6,1996.0,tt0116414
+640,diabolique,1996.0,tt0116095
+642,roula,1995.0,tt0117517
+643,peanuts - die bank zahlt alles,1996.0,tt0117312
+644,happy weekend,1996.0,tt0116485
+645,nelly & monsieur arnaud,1995.0,tt0113947
+647,courage under fire,1996.0,tt0115956
+648,mission: impossible,1996.0,tt0117060
+650,moll flanders,1996.0,tt0117071
+652,"301, 302",1995.0,tt0112257
+653,dragonheart,1996.0,tt0116136
+656,eddie,1996.0,tt0116168
+658,billy's holiday,1995.0,tt0112509
+659,purple noon,1960.0,tt0054189
+660,august,1996.0,tt0115591
+661,james and the giant peach,1996.0,tt0116683
+662,fear,1996.0,tt0116287
+663,kids in the hall: brain candy,1996.0,tt0116768
+664,faithful,1996.0,tt0116269
+665,underground,1995.0,tt0114787
+668,pather panchali,1955.0,tt0048473
+669,aparajito,1956.0,tt0048956
+671,mystery science theater 3000: the movie,1996.0,tt0117128
+672,tarantella,1995.0,tt0114616
+673,space jam,1996.0,tt0117705
+674,barbarella,1968.0,tt0062711
+676,they bite,1996.0,tt0140614
+680,alphaville,1965.0,tt0058898
+682,tigrero: a film that was never made,1994.0,tt0111430
+684,windows,1980.0,tt0081759
+687,country life,1994.0,tt0109491
+688,operation dumbo drop,1995.0,tt0114048
+691,mrs. winterbourne,1996.0,tt0117104
+692,solo,1996.0,tt0117688
+696,butterfly kiss,1995.0,tt0112604
+697,feeling minnesota,1996.0,tt0116289
+699,to cross the rubicon,1991.0,tt0103095
+700,angus,1995.0,tt0112368
+701,daens,1992.0,tt0104046
+702,faces,1968.0,tt0062952
+703,boys,1996.0,tt0115742
+705,cosi,1996.0,tt0115951
+706,sunset park,1996.0,tt0117784
+707,mulholland falls,1996.0,tt0117107
+709,oliver & company,1988.0,tt0095776
+710,celtic pride,1996.0,tt0115851
+711,flipper,1996.0,tt0116322
+712,captives,1994.0,tt0109374
+713,of love and shadows,1994.0,tt0110712
+714,dead man,1995.0,tt0112817
+716,switchblade sisters,1975.0,tt0073778
+719,multiplicity,1996.0,tt0117108
+726,last dance,1996.0,tt0116827
+727,war stories,1995.0,tt0114894
+728,cold comfort farm,1995.0,tt0112701
+731,heaven's prisoners,1996.0,tt0116508
+732,original gangstas,1996.0,tt0117260
+734,getting away with murder,1996.0,tt0116405
+736,twister,1996.0,tt0117998
+737,barb wire,1996.0,tt0115624
+739,honigmond,1996.0,tt0116559
+742,thinner,1996.0,tt0117894
+743,spy hard,1996.0,tt0117723
+744,brothers in trouble,1995.0,tt0112586
+746,force of evil,1948.0,tt0040366
+751,careful,1992.0,tt0103926
+752,vermont is for lovers,1992.0,tt0105737
+754,gold diggers: the secret of bear mountain,1995.0,tt0113188
+755,kim,1950.0,tt0042644
+757,ashes of time,1994.0,tt0109688
+759,maya lin: a strong clear vision,1994.0,tt0110480
+760,stalingrad,1993.0,tt0108211
+762,striptease,1996.0,tt0117765
+764,heavy,1995.0,tt0113280
+765,jack,1996.0,tt0116669
+766,i shot andy warhol,1996.0,tt0116594
+768,someone else's america,1995.0,tt0114494
+769,marlene dietrich: shadow and light,1996.0,tt0116992
+772,quartier mozart,1992.0,tt0105201
+776,babyfever,1994.0,tt0109191
+777,pharaoh's army,1995.0,tt0114122
+778,trainspotting,1996.0,tt0117951
+779,'til there was you,1997.0,tt0118523
+781,stealing beauty,1996.0,tt0117737
+785,kingpin,1996.0,tt0116778
+786,eraser,1996.0,tt0116213
+790,an unforgettable summer,1994.0,tt0111546
+795,somebody to love,1994.0,tt0111237
+798,daylight,1996.0,tt0116040
+800,lone star,1996.0,tt0116905
+801,harriet the spy,1996.0,tt0116493
+802,phenomenon,1996.0,tt0117333
+803,walking and talking,1996.0,tt0118113
+804,she's the one,1996.0,tt0117628
+806,american buffalo,1996.0,tt0115530
+808,alaska,1996.0,tt0115493
+809,fled,1996.0,tt0116320
+810,kazaam,1996.0,tt0116756
+812,magic hunter,1994.0,tt0109356
+813,larger than life,1996.0,tt0116823
+816,two deaths,1995.0,tt0117999
+819,stefano quantestorie,1993.0,tt0108220
+822,hedd wyn,1992.0,tt0104403
+824,kaspar hauser,1993.0,tt0110246
+829,joe's apartment,1996.0,tt0116707
+831,stonewall,1995.0,tt0114550
+832,ransom,1996.0,tt0117438
+833,high school high,1996.0,tt0116531
+834,phat beach,1996.0,tt0117332
+835,foxfire,1996.0,tt0116353
+836,chain reaction,1996.0,tt0115857
+837,matilda,1996.0,tt0117008
+838,emma,1996.0,tt0116191
+838,emma,1996.0,tt0118308
+840,house arrest,1996.0,tt0116571
+843,lotto land,1995.0,tt0113695
+846,flirt,1995.0,tt0113080
+849,escape from l.a.,1996.0,tt0116225
+850,cyclo,1995.0,tt0112767
+851,basquiat,1996.0,tt0115632
+852,tin cup,1996.0,tt0117918
+856,mille bolle blu,1993.0,tt0107575
+857,crows and sparrows,1949.0,tt0042054
+861,supercop,1992.0,tt0104558
+862,manny & lo,1996.0,tt0116985
+863,celestial clockwork,1994.0,tt0109485
+865,small faces,1995.0,tt0114474
+866,bound,1996.0,tt0115736
+867,carpool,1996.0,tt0115836
+869,kansas city,1996.0,tt0116745
+870,gone fishin',1997.0,tt0119214
+874,killer: a journal of murder,1995.0,tt0113542
+875,nothing to lose,1994.0,tt0110693
+877,girls town,1996.0,tt0116418
+878,bye-bye,1995.0,tt0112607
+881,first kid,1996.0,tt0116311
+884,sweet nothing,1995.0,tt0114592
+885,bogus,1996.0,tt0115725
+886,bulletproof,1996.0,tt0115783
+887,talk of angels,1998.0,tt0120271
+889,1-900,1994.0,tt0109001
+890,baton rouge,1988.0,tt0094822
+891,halloween: the curse of michael myers,1995.0,tt0113253
+892,twelfth night,1996.0,tt0117991
+893,mother night,1996.0,tt0117093
+895,venice/venice,1992.0,tt0105729
+896,wild reeds,1994.0,tt0111019
+897,for whom the bell tolls,1943.0,tt0035896
+899,singin' in the rain,1952.0,tt0045152
+901,funny face,1957.0,tt0050419
+902,breakfast at tiffany's,1961.0,tt0054698
+903,vertigo,1958.0,tt0052357
+904,rear window,1954.0,tt0047396
+905,it happened one night,1934.0,tt0025316
+906,gaslight,1944.0,tt0036855
+908,north by northwest,1959.0,tt0053125
+910,some like it hot,1959.0,tt0053291
+911,charade,1963.0,tt0056923
+912,casablanca,1942.0,tt0034583
+914,my fair lady,1964.0,tt0058385
+915,sabrina,1954.0,tt0047437
+916,roman holiday,1953.0,tt0046250
+918,meet me in st. louis,1944.0,tt0037059
+920,gone with the wind,1939.0,tt0031381
+921,my favorite year,1982.0,tt0084370
+923,citizen kane,1941.0,tt0033467
+924,2001: a space odyssey,1968.0,tt0062622
+925,golden earrings,1947.0,tt0039428
+926,all about eve,1950.0,tt0042192
+928,rebecca,1940.0,tt0032976
+929,foreign correspondent,1940.0,tt0032484
+930,notorious,1946.0,tt0038787
+931,spellbound,1945.0,tt0038109
+933,to catch a thief,1955.0,tt0048728
+934,father of the bride,1950.0,tt0042451
+936,ninotchka,1939.0,tt0031725
+937,love in the afternoon,1957.0,tt0050658
+938,gigi,1958.0,tt0051658
+942,laura,1944.0,tt0037008
+944,lost horizon,1937.0,tt0029162
+945,top hat,1935.0,tt0027125
+946,to be or not to be,1942.0,tt0035446
+947,my man godfrey,1936.0,tt0028010
+948,giant,1956.0,tt0049261
+949,east of eden,1955.0,tt0048028
+951,his girl friday,1940.0,tt0032599
+952,around the world in 80 days,1956.0,tt0048960
+953,it's a wonderful life,1946.0,tt0038650
+954,mr. smith goes to washington,1939.0,tt0031679
+955,bringing up baby,1938.0,tt0029947
+956,penny serenade,1941.0,tt0034012
+958,lady of burlesque,1943.0,tt0036094
+959,of human bondage,1934.0,tt0025586
+960,angel on my shoulder,1946.0,tt0038300
+961,little lord fauntleroy,1936.0,tt0027893
+962,they made me a criminal,1939.0,tt0032022
+964,angel and the badman,1947.0,tt0039152
+968,night of the living dead,1968.0,tt0063350
+971,cat on a hot tin roof,1958.0,tt0051459
+973,meet john doe,1941.0,tt0033891
+974,algiers,1938.0,tt0029855
+975,something to sing about,1937.0,tt0029588
+977,moonlight murder,1936.0,tt0027980
+979,nothing personal,1995.0,tt0114007
+981,dangerous ground,1997.0,tt0118927
+982,picnic,1955.0,tt0048491
+983,madagascar skin,1995.0,tt0113730
+986,fly away home,1996.0,tt0116329
+987,bliss,1997.0,tt0118742
+988,grace of my heart,1996.0,tt0116442
+990,maximum risk,1996.0,tt0117011
+991,michael collins,1996.0,tt0117039
+993,infinity,1996.0,tt0116635
+994,big night,1996.0,tt0115678
+996,last man standing,1996.0,tt0116830
+997,caught,1996.0,tt0115847
+998,set it off,1996.0,tt0117603
+999,2 days in the valley,1996.0,tt0115438
+1000,curdled,1996.0,tt0115994
+1002,ed's next move,1996.0,tt0116167
+1003,extreme measures,1996.0,tt0116259
+1005,d3: the mighty ducks,1996.0,tt0116000
+1009,escape to witch mountain,1975.0,tt0072951
+1011,herbie rides again,1974.0,tt0071607
+1012,old yeller,1957.0,tt0050798
+1014,pollyanna,1960.0,tt0054195
+1015,homeward bound: the incredible journey,1993.0,tt0107131
+1017,swiss family robinson,1960.0,tt0054357
+1018,that darn cat!,1965.0,tt0059793
+1019,"20,000 leagues under the sea",1954.0,tt0046672
+1020,cool runnings,1993.0,tt0106611
+1021,angels in the outfield,1994.0,tt0109127
+1022,cinderella,1950.0,tt0042332
+1022,cinderella,1950.0,tt2049413
+1023,winnie the pooh and the blustery day,1968.0,tt0063819
+1027,robin hood: prince of thieves,1991.0,tt0102798
+1028,mary poppins,1964.0,tt0058331
+1029,dumbo,1941.0,tt0033563
+1030,pete's dragon,1977.0,tt0076538
+1031,bedknobs and broomsticks,1971.0,tt0066817
+1032,alice in wonderland,1951.0,tt0043274
+1034,freeway,1996.0,tt0116361
+1036,die hard,1988.0,tt0095016
+1038,unhook the stars,1996.0,tt0118044
+1039,synthetic pleasures,1995.0,tt0114597
+1041,secrets & lies,1996.0,tt0117589
+1042,that thing you do!,1996.0,tt0117887
+1043,to gillian on her 37th birthday,1996.0,tt0117924
+1044,surviving picasso,1996.0,tt0117791
+1045,love is all there is,1996.0,tt0116928
+1046,beautiful thing,1996.0,tt0115640
+1050,looking for richard,1996.0,tt0116913
+1051,trees lounge,1996.0,tt0117958
+1053,normal life,1996.0,tt0117202
+1054,get on the bus,1996.0,tt0116404
+1055,shadow conspiracy,1997.0,tt0120107
+1056,jude,1996.0,tt0116722
+1057,everyone says i love you,1996.0,tt0116242
+1060,swingers,1996.0,tt0117802
+1061,sleepers,1996.0,tt0117665
+1063,johns,1996.0,tt0116714
+1068,crossfire,1947.0,tt0039286
+1069,"murder, my sweet",1944.0,tt0037101
+1070,macao,1952.0,tt0044863
+1077,sleeper,1973.0,tt0070707
+1078,bananas,1971.0,tt0066808
+1084,bonnie and clyde,1967.0,tt0061418
+1086,dial m for murder,1954.0,tt0046912
+1087,madame butterfly,1995.0,tt0113731
+1088,dirty dancing,1987.0,tt0092890
+1089,reservoir dogs,1992.0,tt0105236
+1090,platoon,1986.0,tt0091763
+1091,weekend at bernie's,1989.0,tt0098627
+1092,basic instinct,1992.0,tt0103772
+1095,glengarry glen ross,1992.0,tt0104348
+1096,sophie's choice,1982.0,tt0084707
+1097,e.t. the extra-terrestrial,1982.0,tt0083866
+1100,days of thunder,1990.0,tt0099371
+1101,top gun,1986.0,tt0092099
+1102,american strays,1996.0,tt0115531
+1103,rebel without a cause,1955.0,tt0048545
+1107,loser,1991.0,tt0102336
+1115,sleepover,1995.0,tt0114472
+1124,on golden pond,1981.0,tt0082846
+1126,drop dead fred,1991.0,tt0101775
+1129,escape from new york,1981.0,tt0082340
+1131,jean de florette,1986.0,tt0091288
+1133,talking about sex,1994.0,tt0111357
+1135,private benjamin,1980.0,tt0081375
+1137,hustler white,1996.0,tt0116587
+1138,dadetown,1995.0,tt0112777
+1139,everything relative,1996.0,tt0116245
+1140,entertaining angels: the dorothy day story,1996.0,tt0116212
+1141,hoogste tijd,1995.0,tt0113328
+1143,three lives and only one death,1996.0,tt0117968
+1145,snowriders,1996.0,tt0117677
+1146,curtis's charm,1995.0,tt0112759
+1147,when we were kings,1996.0,tt0118147
+1151,faust,1994.0,tt0109781
+1152,he walked by night,1948.0,tt0040427
+1153,raw deal,1948.0,tt0040723
+1154,t-men,1947.0,tt0039881
+1158,here comes cookie,1935.0,tt0026465
+1159,love in bloom,1935.0,tt0026656
+1160,six of a kind,1934.0,tt0025799
+1163,mina tannenbaum,1994.0,tt0110521
+1167,dear god,1996.0,tt0116059
+1168,bad moon,1996.0,tt0115610
+1169,american dream,1990.0,tt0099028
+1170,best of the best 3: no turning back,1995.0,tt0112483
+1171,bob roberts,1992.0,tt0103850
+1172,cinema paradiso,1988.0,tt0095765
+1175,delicatessen,1991.0,tt0101700
+1177,enchanted april,1991.0,tt0101811
+1178,paths of glory,1957.0,tt0050825
+1180,hear my song,1991.0,tt0102014
+1184,mediterraneo,1991.0,tt0102426
+1185,my left foot,1989.0,tt0097937
+1186,"sex, lies, and videotape",1989.0,tt0098724
+1187,passion fish,1992.0,tt0105107
+1188,strictly ballroom,1992.0,tt0105488
+1191,madonna: truth or dare,1991.0,tt0102370
+1192,paris is burning,1990.0,tt0100332
+1193,one flew over the cuckoo's nest,1975.0,tt0073486
+1194,up in smoke,1978.0,tt0078446
+1196,star wars: episode v - the empire strikes back,1980.0,tt0080684
+1199,brazil,1985.0,tt0088846
+1200,aliens,1986.0,tt0090605
+1203,12 angry men,1957.0,tt0050083
+1204,lawrence of arabia,1962.0,tt0056172
+1207,to kill a mockingbird,1962.0,tt0056592
+1208,apocalypse now,1979.0,tt0078788
+1210,star wars: episode vi - return of the jedi,1983.0,tt0086190
+1213,goodfellas,1990.0,tt0099685
+1214,alien,1979.0,tt0078748
+1217,ran,1985.0,tt0089881
+1219,psycho,1960.0,tt0054215
+1222,full metal jacket,1987.0,tt0093058
+1224,henry v,1989.0,tt0097499
+1225,amadeus,1984.0,tt0086879
+1225,amadeus,1984.0,tt0229208
+1227,once upon a time in america,1984.0,tt0087843
+1228,raging bull,1980.0,tt0081398
+1230,annie hall,1977.0,tt0075686
+1232,stalker,1979.0,tt0079944
+1235,harold and maude,1971.0,tt0067185
+1236,trust,1990.0,tt0103130
+1238,local hero,1983.0,tt0085859
+1242,glory,1989.0,tt0097441
+1242,glory,1989.0,tt0775476
+1244,manhattan,1979.0,tt0079522
+1245,miller's crossing,1990.0,tt0100150
+1246,dead poets society,1989.0,tt0097165
+1248,touch of evil,1958.0,tt0052311
+1252,chinatown,1974.0,tt0071315
+1255,bad taste,1987.0,tt0092610
+1256,duck soup,1933.0,tt0023969
+1257,better off dead...,1985.0,tt0088794
+1259,stand by me,1986.0,tt0092005
+1260,m,1931.0,tt0022100
+1264,diva,1981.0,tt0082269
+1265,groundhog day,1993.0,tt0107048
+1266,unforgiven,1992.0,tt0105695
+1268,pump up the volume,1990.0,tt0100436
+1270,back to the future,1985.0,tt0088763
+1271,fried green tomatoes,1991.0,tt0101921
+1272,patton,1970.0,tt0066206
+1273,down by law,1986.0,tt0090967
+1274,akira,1988.0,tt0094625
+1275,highlander,1986.0,tt0091203
+1276,cool hand luke,1967.0,tt0061512
+1277,cyrano de bergerac,1990.0,tt0099334
+1277,cyrano de bergerac,1990.0,tt5445580
+1278,young frankenstein,1974.0,tt0072431
+1279,night on earth,1991.0,tt0102536
+1280,raise the red lantern,1991.0,tt0101640
+1282,fantasia,1940.0,tt0032455
+1283,high noon,1952.0,tt0044706
+1286,somewhere in time,1980.0,tt0081534
+1287,ben-hur,1959.0,tt0052618
+1288,this is spinal tap,1984.0,tt0088258
+1290,some kind of wonderful,1987.0,tt0094006
+1291,indiana jones and the last crusade,1989.0,tt0097576
+1292,being there,1979.0,tt0078841
+1293,gandhi,1982.0,tt0083987
+1297,real genius,1985.0,tt0089886
+1301,forbidden planet,1956.0,tt0049223
+1302,field of dreams,1989.0,tt0097351
+1304,butch cassidy and the sundance kid,1969.0,tt0064115
+1305,"paris, texas",1984.0,tt0087884
+1307,when harry met sally...,1989.0,tt0098635
+1308,i shot a man in vegas,1995.0,tt0113369
+1309,parallel sons,1995.0,tt0114089
+1310,hype!,1996.0,tt0116589
+1311,santa with muscles,1996.0,tt0117550
+1312,female perversions,1996.0,tt0116293
+1313,mad dog time,1996.0,tt0116953
+1314,breathing room,1996.0,tt0115754
+1317,i'm not rappaport,1996.0,tt0116601
+1318,blue juice,1995.0,tt0112537
+1323,amityville 3-d,1983.0,tt0085159
+1326,amityville ii: the possession,1982.0,tt0083550
+1330,april fool's day,1986.0,tt0090655
+1331,audrey rose,1977.0,tt0075704
+1336,body parts,1991.0,tt0101492
+1339,bram stoker's dracula,1992.0,tt0103874
+1341,burnt offerings,1976.0,tt0074258
+1342,candyman,1992.0,tt0103919
+1343,cape fear,1991.0,tt0101540
+1344,cape fear,1962.0,tt0055824
+1345,carrie,1976.0,tt0074285
+1346,cat people,1982.0,tt0083722
+1352,albino alligator,1996.0,tt0115495
+1354,breaking the waves,1996.0,tt0115751
+1355,nightwatch,1997.0,tt0119791
+1356,star trek: first contact,1996.0,tt0117731
+1357,shine,1996.0,tt0117631
+1358,sling blade,1996.0,tt0117666
+1359,jingle all the way,1996.0,tt0116705
+1361,paradise lost: the child murders at robin hood hills,1996.0,tt0117293
+1365,ridicule,1996.0,tt0117477
+1367,101 dalmatians,1996.0,tt0115433
+1370,die hard 2,1990.0,tt0099423
+1371,star trek: the motion picture,1979.0,tt0079945
+1372,star trek vi: the undiscovered country,1991.0,tt0102975
+1373,star trek v: the final frontier,1989.0,tt0098382
+1375,star trek iii: the search for spock,1984.0,tt0088170
+1376,star trek iv: the voyage home,1986.0,tt0092007
+1377,batman returns,1992.0,tt0103776
+1378,young guns,1988.0,tt0096487
+1379,young guns ii,1990.0,tt0100994
+1380,grease,1978.0,tt0077631
+1381,grease 2,1982.0,tt0084021
+1382,marked for death,1990.0,tt0100114
+1383,adrenalin: fear the rush,1996.0,tt0115471
+1385,under siege,1992.0,tt0105690
+1386,terror in a texas town,1958.0,tt0052287
+1387,jaws,1975.0,tt0073195
+1388,jaws 2,1978.0,tt0077766
+1389,jaws 3-d,1983.0,tt0085750
+1390,my fellow americans,1996.0,tt0117119
+1391,mars attacks!,1996.0,tt0116996
+1392,citizen ruth,1996.0,tt0115906
+1393,jerry maguire,1996.0,tt0116695
+1394,raising arizona,1987.0,tt0093822
+1395,tin men,1987.0,tt0094155
+1396,sneakers,1992.0,tt0105435
+1397,bastard out of carolina,1996.0,tt0115633
+1398,in love and war,1996.0,tt0116621
+1399,marvin's room,1996.0,tt0116999
+1400,somebody is waiting,1996.0,tt0117691
+1401,ghosts of mississippi,1996.0,tt0116410
+1405,beavis and butt-head do america,1996.0,tt0115641
+1407,scream,1996.0,tt0117571
+1407,scream,1996.0,tt0176904
+1409,michael,1996.0,tt0117038
+1411,hamlet,1996.0,tt0116477
+1412,some mother's son,1996.0,tt0117690
+1414,mother,1996.0,tt0117091
+1416,evita,1996.0,tt0116250
+1419,walkabout,1971.0,tt0067959
+1420,message to love: the isle of wight festival,1996.0,tt0117028
+1421,grateful dead,1995.0,tt0113212
+1422,murder at 1600,1997.0,tt0119731
+1424,inside,1996.0,tt0116640
+1425,fierce creatures,1997.0,tt0119115
+1426,zeus and roxanne,1997.0,tt0120550
+1427,turbulence,1997.0,tt0120390
+1428,angel baby,1995.0,tt0112362
+1431,beverly hills ninja,1997.0,tt0118708
+1432,metro,1997.0,tt0119664
+1436,falling in love again,1980.0,tt0080714
+1438,dante's peak,1997.0,tt0118928
+1439,meet wally sparks,1997.0,tt0119644
+1440,amos & andrew,1993.0,tt0106266
+1441,benny & joon,1993.0,tt0106387
+1442,prefontaine,1997.0,tt0119937
+1445,mchale's navy,1997.0,tt0119640
+1446,kolya,1996.0,tt0116790
+1447,gridlock'd,1997.0,tt0119225
+1448,fire on the mountain,1996.0,tt0116310
+1449,waiting for guffman,1996.0,tt0118111
+1455,hotel de love,1996.0,tt0116565
+1457,fools rush in,1997.0,tt0119141
+1458,touch,1997.0,tt0120357
+1459,absolute power,1997.0,tt0118548
+1461,vegas vacation,1997.0,tt0120434
+1462,unforgotten: twenty-five years after willowbrook,1996.0,tt0118042
+1463,that old feeling,1997.0,tt0120318
+1464,lost highway,1997.0,tt0116922
+1465,rosewood,1997.0,tt0120036
+1466,donnie brasco,1997.0,tt0119008
+1468,booty call,1997.0,tt0118750
+1470,rhyme & reason,1997.0,tt0120014
+1471,boys life 2,1997.0,tt0118762
+1472,city of industry,1997.0,tt0118859
+1473,best men,1997.0,tt0118702
+1475,kama sutra: a tale of love,1996.0,tt0116743
+1476,private parts,1997.0,tt0119951
+1477,love jones,1997.0,tt0119572
+1480,smilla's sense of snow,1997.0,tt0120152
+1483,crash,1996.0,tt0115964
+1485,liar liar,1997.0,tt0119528
+1487,selena,1997.0,tt0120094
+1489,cats don't dance,1997.0,tt0118829
+1490,b*a*p*s,1997.0,tt0118663
+1493,love and other catastrophes,1996.0,tt0116931
+1495,turbo: a power rangers movie,1997.0,tt0120389
+1496,anna karenina,1997.0,tt0118623
+1497,double team,1997.0,tt0119013
+1498,inventing the abbotts,1997.0,tt0119381
+1499,anaconda,1997.0,tt0118615
+1500,grosse pointe blank,1997.0,tt0119229
+1501,keys to tulsa,1997.0,tt0116762
+1502,kissed,1996.0,tt0116783
+1503,8 heads in a duffel bag,1997.0,tt0118541
+1504,hollow reed,1996.0,tt0113314
+1507,paradise road,1997.0,tt0119859
+1508,traveller,1997.0,tt0120366
+1509,all over me,1997.0,tt0118586
+1511,a chef in love,1996.0,tt0117050
+1513,romy and michele's high school reunion,1997.0,tt0120032
+1515,volcano,1997.0,tt0120461
+1516,children of the revolution,1996.0,tt0115886
+1517,austin powers: international man of mystery,1997.0,tt0118655
+1518,breakdown,1997.0,tt0118771
+1518,breakdown,1997.0,tt0245020
+1519,broken english,1996.0,tt0115760
+1520,commandments,1997.0,tt0115927
+1522,ripe,1996.0,tt0117482
+1523,"truth or consequences, n.m.",1997.0,tt0120383
+1525,warriors of virtue,1997.0,tt0120479
+1526,fathers' day,1997.0,tt0119109
+1528,intimate relations,1996.0,tt0116643
+1529,nowhere,1997.0,tt0119809
+1531,losing chase,1996.0,tt0116920
+1532,sprung,1997.0,tt0120190
+1535,love! valour! compassion!,1997.0,tt0119578
+1539,twin town,1997.0,tt0120394
+1541,addicted to love,1997.0,tt0118556
+1542,brassed off,1996.0,tt0115744
+1545,ponette,1996.0,tt0117359
+1546,schizopolis,1996.0,tt0117561
+1549,rough magic,1995.0,tt0114303
+1550,trial and error,1997.0,tt0120373
+1551,buddy,1997.0,tt0118787
+1552,con air,1997.0,tt0118880
+1553,late bloomers,1996.0,tt0116834
+1556,speed 2: cruise control,1997.0,tt0120179
+1558,sudden manhattan,1996.0,tt0117775
+1561,wedding bell blues,1996.0,tt0118127
+1562,batman & robin,1997.0,tt0118688
+1563,dream with the fishes,1997.0,tt0119019
+1565,head above water,1996.0,tt0116502
+1566,hercules,1997.0,tt0119282
+1568,murder and murder,1996.0,tt0116949
+1569,my best friend's wedding,1997.0,tt0119738
+1570,tetsuo ii: body hammer,1992.0,tt0105569
+1573,face/off,1997.0,tt0119094
+1574,fall,1997.0,tt0119098
+1575,gabbeh,1996.0,tt0116384
+1579,for ever mozart,1996.0,tt0116334
+1580,men in black,1997.0,tt0119654
+1581,out to sea,1997.0,tt0119848
+1582,wild america,1997.0,tt0120512
+1584,contact,1997.0,tt0118884
+1585,love serenade,1996.0,tt0116930
+1586,g.i. jane,1997.0,tt0119173
+1587,conan the barbarian,1982.0,tt0082198
+1588,george of the jungle,1997.0,tt0119190
+1589,cop land,1997.0,tt0118887
+1590,event horizon,1997.0,tt0119081
+1591,spawn,1997.0,tt0120177
+1592,air bud,1997.0,tt0118570
+1593,picture perfect,1997.0,tt0119896
+1594,in the company of men,1997.0,tt0119361
+1595,free willy 3: the rescue,1997.0,tt0119152
+1596,career girls,1997.0,tt0118818
+1597,conspiracy theory,1997.0,tt0118883
+1598,desperate measures,1998.0,tt0118966
+1599,steel,1997.0,tt0120207
+1600,she's so lovely,1997.0,tt0120112
+1601,hoodlum,1997.0,tt0119311
+1602,leave it to beaver,1997.0,tt0119509
+1603,mimic,1997.0,tt0119675
+1604,money talks,1997.0,tt0119695
+1605,excess baggage,1997.0,tt0119086
+1606,kull the conqueror,1997.0,tt0119484
+1608,air force one,1997.0,tt0118571
+1611,my own private idaho,1991.0,tt0102494
+1612,"kiss me, guido",1997.0,tt0119465
+1613,star maps,1997.0,tt0120197
+1614,in & out,1997.0,tt0119360
+1617,l.a. confidential,1997.0,tt0119488
+1619,seven years in tibet,1997.0,tt0120102
+1620,kiss the girls,1997.0,tt0119468
+1621,soul food,1997.0,tt0120169
+1622,kicked in the head,1997.0,tt0119457
+1623,wishmaster,1997.0,tt0120524
+1626,fire down below,1997.0,tt0119123
+1627,u turn,1997.0,tt0120399
+1633,ulee's gold,1997.0,tt0120402
+1636,stag,1997.0,tt0120192
+1639,chasing amy,1997.0,tt0118842
+1640,how to be a player,1997.0,tt0119326
+1644,i know what you did last summer,1997.0,tt0119345
+1647,playing god,1997.0,tt0119906
+1649,"fast, cheap & out of control",1997.0,tt0119107
+1650,washington square,1997.0,tt0120481
+1651,telling lies in america,1997.0,tt0120303
+1652,year of the horse,1997.0,tt0120539
+1653,gattaca,1997.0,tt0119177
+1654,fairytale: a true story,1997.0,tt0119095
+1655,phantoms,1998.0,tt0119891
+1656,swept from the sea,1997.0,tt0120257
+1657,wonderland,1997.0,tt0120529
+1660,eve's bayou,1997.0,tt0119080
+1661,switchback,1997.0,tt0119210
+1662,gang related,1997.0,tt0118900
+1663,stripes,1981.0,tt0083131
+1664,nénette et boni,1996.0,tt0117221
+1665,bean,1997.0,tt0118689
+1666,hugo pool,1997.0,tt0119327
+1667,mad city,1997.0,tt0119592
+1668,one night stand,1997.0,tt0119832
+1670,welcome to sarajevo,1997.0,tt0120490
+1671,deceiver,1997.0,tt0119527
+1673,boogie nights,1997.0,tt0118749
+1674,witness,1985.0,tt0090329
+1675,incognito,1997.0,tt0119365
+1676,starship troopers,1997.0,tt0120201
+1677,critical care,1997.0,tt0118901
+1680,sliding doors,1998.0,tt0120148
+1681,mortal kombat: annihilation,1997.0,tt0119707
+1685,"i love you, i love you not",1996.0,tt0116592
+1686,red corner,1997.0,tt0119994
+1688,anastasia,1997.0,tt0118617
+1690,alien: resurrection,1997.0,tt0118583
+1693,amistad,1997.0,tt0118607
+1695,artemisia,1997.0,tt0103722
+1695,artemisia,1997.0,tt0123385
+1696,bent,1997.0,tt0118698
+1701,deconstructing harry,1997.0,tt0118954
+1702,flubber,1997.0,tt0119137
+1703,for richer or poorer,1997.0,tt0119142
+1704,good will hunting,1997.0,tt0119217
+1705,guy,1996.0,tt0116465
+1707,home alone 3,1997.0,tt0119303
+1708,ill gotten gains,1997.0,tt0119352
+1709,legal deceit,1997.0,tt0130073
+1711,midnight in the garden of good and evil,1997.0,tt0119668
+1714,never met picasso,1996.0,tt0117167
+1715,office killer,1997.0,tt0119819
+1717,scream 2,1997.0,tt0120082
+1718,stranger in the house,1997.0,tt0120222
+1721,titanic,1997.0,tt0120338
+1722,tomorrow never dies,1997.0,tt0120347
+1723,twisted,1996.0,tt0117994
+1724,full speed,1996.0,tt0118230
+1729,jackie brown,1997.0,tt0119396
+1730,kundun,1997.0,tt0119485
+1731,mr. magoo,1997.0,tt0119718
+1733,afterglow,1997.0,tt0118566
+1735,great expectations,1998.0,tt0119223
+1738,vermin,1998.0,tt0120881
+1738,vermin,1998.0,tt0382363
+1740,men of means,1998.0,tt0119655
+1742,caught up,1998.0,tt0119988
+1744,firestorm,1998.0,tt0120670
+1746,senseless,1998.0,tt0120820
+1747,wag the dog,1997.0,tt0120885
+1748,dark city,1998.0,tt0118929
+1750,star kid,1997.0,tt0120478
+1752,hard rain,1998.0,tt0120696
+1753,half baked,1998.0,tt0120693
+1754,fallen,1998.0,tt0119099
+1755,shooting fish,1997.0,tt0120122
+1758,dangerous beauty,1998.0,tt0118892
+1759,four days in september,1997.0,tt0119815
+1760,spice world,1997.0,tt0120185
+1762,deep rising,1998.0,tt0118956
+1764,tainted,1998.0,tt0128690
+1767,music from another room,1998.0,tt0119734
+1770,b. monkey,1998.0,tt0120594
+1772,blues brothers 2000,1998.0,tt0118747
+1773,tokyo fist,1995.0,tt0114690
+1774,mass transit,1998.0,tt0133090
+1776,ride,1998.0,tt0120707
+1779,sphere,1998.0,tt0120184
+1783,palmetto,1998.0,tt0120782
+1784,as good as it gets,1997.0,tt0119822
+1785,king of new york,1990.0,tt0099939
+1788,men with guns,1997.0,tt0119656
+1788,men with guns,1997.0,tt0119657
+1791,twilight,1998.0,tt0119594
+1794,love and death on long island,1997.0,tt0119574
+1796,in god's hands,1998.0,tt0140282
+1797,everest,1998.0,tt0120661
+1798,hush,1998.0,tt0118744
+1799,suicide kings,1997.0,tt0120241
+1805,wild things,1998.0,tt0120890
+1806,paulie,1998.0,tt0125454
+1810,primary colors,1998.0,tt0119942
+1811,"niagara, niagara",1997.0,tt0119780
+1812,wide awake,1998.0,tt0120510
+1816,two girls and a guy,1997.0,tt0124179
+1817,no looking back,1998.0,tt0119560
+1822,meet the deedles,1998.0,tt0120645
+1824,homegrown,1998.0,tt0119305
+1826,barney's great adventure,1998.0,tt0120598
+1829,chinese box,1997.0,tt0118851
+1831,lost in space,1998.0,tt0120738
+1832,heaven's burning,1997.0,tt0119272
+1833,mercury rising,1998.0,tt0120749
+1835,city of angels,1998.0,tt0120632
+1839,my giant,1998.0,tt0120765
+1840,he got game,1998.0,tt0124718
+1842,illtown,1996.0,tt0118229
+1843,slappy and the stinkers,1998.0,tt0120213
+1844,live flesh,1997.0,tt0118819
+1845,zero effect,1998.0,tt0120906
+1846,nil by mouth,1997.0,tt0119792
+1847,ratchet,1996.0,tt0117443
+1849,prince valiant,1997.0,tt0119947
+1851,leather jacket love story,1997.0,tt0119508
+1854,kissing a fool,1998.0,tt0120723
+1855,krippendorf's tribe,1998.0,tt0120725
+1856,kurt & courtney,1998.0,tt0138563
+1858,mr. nice guy,1997.0,tt0117786
+1859,taste of cherry,1997.0,tt0120265
+1861,junk mail,1997.0,tt0118785
+1862,species ii,1998.0,tt0120841
+1863,major league: back to the minors,1998.0,tt0120742
+1864,sour grapes,1998.0,tt0120838
+1867,tarzan and the lost city,1998.0,tt0120856
+1869,black dog,1998.0,tt0120610
+1870,"dancer, texas pop. 81",1998.0,tt0118925
+1872,go now,1995.0,tt0113184
+1874,still breathing,1997.0,tt0120211
+1875,clockwatchers,1997.0,tt0118866
+1876,deep impact,1998.0,tt0120647
+1877,little men,1998.0,tt0145048
+1878,woo,1998.0,tt0120531
+1880,lawn dogs,1997.0,tt0119506
+1881,quest for camelot,1998.0,tt0120800
+1882,godzilla,1998.0,tt0120685
+1883,bulworth,1998.0,tt0118798
+1884,fear and loathing in las vegas,1998.0,tt0120669
+1886,i got the hook up,1998.0,tt0131436
+1887,almost heroes,1998.0,tt0119053
+1888,hope floats,1998.0,tt0119313
+1889,insomnia,1997.0,tt0119375
+1890,little boy blue,1997.0,tt0119547
+1893,beyond silence,1996.0,tt0116692
+1894,six days seven nights,1998.0,tt0120828
+1895,can't hardly wait,1998.0,tt0127723
+1896,cousin bette,1998.0,tt0118894
+1897,high art,1998.0,tt0139362
+1901,dear jesse,1997.0,tt0150290
+1902,dream for an insomniac,1996.0,tt0116141
+1903,hav plenty,1997.0,tt0126938
+1904,henry fool,1997.0,tt0122529
+1905,marie baie des anges,1997.0,tt0143614
+1906,mr. jealousy,1997.0,tt0119717
+1907,mulan,1998.0,tt0120762
+1908,resurrection man,1998.0,tt0140508
+1910,i went down,1997.0,tt0126344
+1911,doctor dolittle,1998.0,tt0118998
+1912,out of sight,1998.0,tt0120780
+1913,picnic at hanging rock,1975.0,tt0073540
+1914,smoke signals,1998.0,tt0120321
+1915,voyage to the beginning of the world,1997.0,tt0120443
+1917,armageddon,1998.0,tt0120591
+1918,lethal weapon 4,1998.0,tt0122151
+1919,madeline,1998.0,tt0123987
+1920,small soldiers,1998.0,tt0122718
+1921,pi,1998.0,tt0138704
+1922,whatever,1998.0,tt0140688
+1923,there's something about mary,1998.0,tt0129387
+1925,wings,1927.0,tt0018578
+1927,all quiet on the western front,1930.0,tt0020629
+1928,cimarron,1931.0,tt0021746
+1929,grand hotel,1932.0,tt0022958
+1929,grand hotel,1932.0,tt3180788
+1930,cavalcade,1933.0,tt0023876
+1931,mutiny on the bounty,1935.0,tt0026752
+1934,you can't take it with you,1938.0,tt0030993
+1935,how green was my valley,1941.0,tt0033729
+1936,mrs. miniver,1942.0,tt0035093
+1937,going my way,1944.0,tt0036872
+1940,gentleman's agreement,1947.0,tt0039416
+1941,hamlet,1948.0,tt0040416
+1942,all the king's men,1949.0,tt0041113
+1944,from here to eternity,1953.0,tt0045793
+1945,on the waterfront,1954.0,tt0047296
+1946,marty,1955.0,tt0048356
+1947,west side story,1961.0,tt0055614
+1948,tom jones,1963.0,tt0057590
+1950,in the heat of the night,1967.0,tt0061811
+1951,oliver!,1968.0,tt0063385
+1952,midnight cowboy,1969.0,tt0064665
+1954,rocky,1976.0,tt0075148
+1955,kramer vs. kramer,1979.0,tt0079417
+1956,ordinary people,1980.0,tt0081283
+1957,chariots of fire,1981.0,tt0082158
+1958,terms of endearment,1983.0,tt0086425
+1959,out of africa,1985.0,tt0089755
+1961,rain man,1988.0,tt0095953
+1962,driving miss daisy,1989.0,tt0097239
+1963,take the money and run,1969.0,tt0065063
+1964,klute,1971.0,tt0067309
+1965,repo man,1984.0,tt0087995
+1966,metropolitan,1990.0,tt0100142
+1967,labyrinth,1986.0,tt0091369
+1973,freddy's dead: the final nightmare,1991.0,tt0101917
+1974,friday the 13th,1980.0,tt0080761
+1975,friday the 13th part 2,1981.0,tt0082418
+1977,friday the 13th: the final chapter,1984.0,tt0087298
+1979,friday the 13th part vi: jason lives,1986.0,tt0091080
+1980,friday the 13th part vii: the new blood,1988.0,tt0095179
+1981,friday the 13th part viii: jason takes manhattan,1989.0,tt0097388
+1982,halloween,1978.0,tt0077651
+1983,halloween ii,1981.0,tt0082495
+1985,halloween 4: the return of michael myers,1988.0,tt0095271
+1986,halloween 5: the revenge of michael myers,1989.0,tt0097474
+1987,prom night,1980.0,tt0081383
+1991,child's play,1988.0,tt0094862
+1992,child's play 2,1990.0,tt0099253
+1994,poltergeist,1982.0,tt0084516
+1995,poltergeist ii: the other side,1986.0,tt0091778
+1996,poltergeist iii,1988.0,tt0095889
+1998,exorcist ii: the heretic,1977.0,tt0076009
+2000,lethal weapon,1987.0,tt0093409
+2001,lethal weapon 2,1989.0,tt0097733
+2002,lethal weapon 3,1992.0,tt0104714
+2003,gremlins,1984.0,tt0087363
+2004,gremlins 2: the new batch,1990.0,tt0099700
+2007,polish wedding,1998.0,tt0119910
+2009,soylent green,1973.0,tt0070723
+2011,back to the future part ii,1989.0,tt0096874
+2012,back to the future part iii,1990.0,tt0099088
+2017,babes in toyland,1961.0,tt0054649
+2018,bambi,1942.0,tt0034492
+2020,dangerous liaisons,1988.0,tt0094947
+2021,dune,1984.0,tt0087182
+2025,lolita,1997.0,tt0119558
+2026,disturbing behavior,1998.0,tt0134619
+2027,mafia!,1998.0,tt0120741
+2028,saving private ryan,1998.0,tt0120815
+2035,blackbeard's ghost,1968.0,tt0062737
+2036,blank check,1994.0,tt0109287
+2037,candleshoe,1977.0,tt0075807
+2039,cheetah,1989.0,tt0097053
+2041,condorman,1981.0,tt0082199
+2042,d2: the mighty ducks,1994.0,tt0109520
+2043,darby o'gill and the little people,1959.0,tt0052722
+2046,flight of the navigator,1986.0,tt0091059
+2050,herbie goes bananas,1980.0,tt0080861
+2051,herbie goes to monte carlo,1977.0,tt0076137
+2052,hocus pocus,1993.0,tt0107120
+2053,"honey, i blew up the kid",1992.0,tt0104437
+2054,"honey, i shrunk the kids",1989.0,tt0097523
+2055,hot lead and cold feet,1978.0,tt0077698
+2056,in search of the castaways,1962.0,tt0056095
+2060,baseketball,1998.0,tt0131857
+2061,full tilt boogie,1997.0,tt0119165
+2064,roger & me,1989.0,tt0098213
+2066,out of the past,1947.0,tt0039689
+2067,doctor zhivago,1965.0,tt0059113
+2068,fanny and alexander,1982.0,tt0083922
+2070,tender mercies,1983.0,tt0086423
+2071,and the band played on,1993.0,tt0106273
+2073,fandango,1985.0,tt0089126
+2075,mephisto,1981.0,tt0082736
+2076,blue velvet,1986.0,tt0090756
+2080,lady and the tramp,1955.0,tt0048280
+2084,newsies,1992.0,tt0104990
+2086,one magic christmas,1985.0,tt0089731
+2087,peter pan,1953.0,tt0046183
+2088,popeye,1980.0,tt0081353
+2091,return from witch mountain,1978.0,tt0078158
+2093,return to oz,1985.0,tt0089908
+2096,sleeping beauty,1959.0,tt0053285
+2097,something wicked this way comes,1983.0,tt0086336
+2098,son of flubber,1963.0,tt0057518
+2099,song of the south,1946.0,tt0038969
+2100,splash,1984.0,tt0088161
+2101,squanto: a warrior's tale,1994.0,tt0111271
+2104,tex,1982.0,tt0084783
+2105,tron,1982.0,tt0084827
+2106,swing kids,1993.0,tt0108265
+2108,l.a. story,1991.0,tt0102250
+2110,dead men don't wear plaid,1982.0,tt0083798
+2112,grand canyon,1991.0,tt0101969
+2113,graveyard shift,1990.0,tt0099697
+2115,indiana jones and the temple of doom,1984.0,tt0087469
+2119,maximum overdrive,1986.0,tt0091499
+2120,needful things,1993.0,tt0107665
+2121,cujo,1983.0,tt0085382
+2122,children of the corn,1984.0,tt0087050
+2123,all dogs go to heaven,1989.0,tt0096787
+2125,ever after: a cinderella story,1998.0,tt0120631
+2126,snake eyes,1998.0,tt0120832
+2127,"first love, last rites",1997.0,tt0128214
+2128,safe men,1998.0,tt0120813
+2130,atlantic city,1980.0,tt0080388
+2132,who's afraid of virginia woolf?,1966.0,tt0061184
+2133,adventures in babysitting,1987.0,tt0092513
+2134,weird science,1985.0,tt0090305
+2135,doctor dolittle,1967.0,tt0061584
+2137,charlotte's web,1973.0,tt0070016
+2138,watership down,1978.0,tt0078480
+2143,legend,1985.0,tt0089469
+2144,sixteen candles,1984.0,tt0088128
+2145,pretty in pink,1986.0,tt0091790
+2146,st. elmo's fire,1985.0,tt0090060
+2149,house ii: the second story,1987.0,tt0093220
+2152,air bud: golden receiver,1998.0,tt0140796
+2154,how stella got her groove back,1998.0,tt0120703
+2158,"henry: portrait of a serial killer, part 2",1996.0,tt0116516
+2160,rosemary's baby,1968.0,tt0063522
+2164,surf nazis must die,1987.0,tt0094077
+2165,your friends and neighbors,1998.0,tt0119517
+2166,return to paradise,1998.0,tt0124595
+2167,blade,1998.0,tt0120611
+2168,dance with me,1998.0,tt0120576
+2169,dead man on campus,1998.0,tt0118301
+2170,wrongfully accused,1998.0,tt0120901
+2174,beetlejuice,1988.0,tt0094721
+2175,déjà vu,1997.0,tt0119033
+2176,rope,1948.0,tt0040746
+2177,family plot,1976.0,tt0074512
+2178,frenzy,1972.0,tt0068611
+2179,topaz,1969.0,tt0065112
+2180,torn curtain,1966.0,tt0061107
+2181,marnie,1964.0,tt0058329
+2185,i confess,1953.0,tt0045897
+2186,strangers on a train,1951.0,tt0044079
+2187,stage fright,1950.0,tt0042994
+2188,54,1998.0,tt0120577
+2193,willow,1988.0,tt0096446
+2195,dirty work,1998.0,tt0120654
+2196,knock off,1998.0,tt0120724
+2197,firelight,1997.0,tt0119125
+2198,modulations,1998.0,tt0139468
+2199,phoenix,1998.0,tt0119892
+2200,under capricorn,1949.0,tt0042004
+2202,lifeboat,1944.0,tt0037017
+2203,shadow of a doubt,1943.0,tt0036342
+2204,saboteur,1942.0,tt0035279
+2205,mr. & mrs. smith,1941.0,tt0033922
+2206,suspicion,1941.0,tt0034248
+2207,jamaica inn,1939.0,tt0031505
+2209,young and innocent,1937.0,tt0029811
+2210,sabotage,1936.0,tt0028212
+2211,secret agent,1936.0,tt0028231
+2217,elstree calling,1930.0,tt0020852
+2219,murder!,1930.0,tt0021165
+2221,blackmail,1929.0,tt0019702
+2222,champagne,1928.0,tt0018756
+2225,easy virtue,1927.0,tt0017843
+2230,always tell your wife,1923.0,tt0818899
+2231,rounders,1998.0,tt0128442
+2232,cube,1997.0,tt0123755
+2234,let's talk about sex,1998.0,tt0165857
+2235,one man's hero,1999.0,tt0120775
+2236,simon birch,1998.0,tt0124879
+2237,without limits,1998.0,tt0119934
+2240,my bodyguard,1980.0,tt0081207
+2241,class,1983.0,tt0085346
+2242,"grandview, u.s.a.",1984.0,tt0087359
+2243,broadcast news,1987.0,tt0092699
+2245,working girl,1988.0,tt0096463
+2246,stars and bars,1988.0,tt0096166
+2247,married to the mob,1988.0,tt0095593
+2249,my blue heaven,1990.0,tt0100212
+2249,my blue heaven,1990.0,tt0100213
+2250,men don't leave,1990.0,tt0100134
+2252,hero,1992.0,tt0104412
+2253,toys,1992.0,tt0105629
+2254,choices,1981.0,tt0082172
+2255,young doctors in love,1982.0,tt0084938
+2256,parasite,1982.0,tt0084472
+2257,no small affair,1984.0,tt0087810
+2259,blame it on rio,1984.0,tt0086973
+2260,wisdom,1986.0,tt0092225
+2261,one crazy summer,1986.0,tt0091680
+2264,we're no angels,1989.0,tt0098625
+2265,nothing but trouble,1991.0,tt0102558
+2267,mortal thoughts,1991.0,tt0102469
+2269,indecent proposal,1993.0,tt0107211
+2271,permanent midnight,1998.0,tt0120788
+2272,one true thing,1998.0,tt0120776
+2273,rush hour,1998.0,tt0120812
+2275,six-string samurai,1998.0,tt0118736
+2278,ronin,1998.0,tt0122690
+2279,urban legend,1998.0,tt0146336
+2280,clay pigeons,1998.0,tt0118863
+2281,monument ave.,1998.0,tt0119802
+2282,pecker,1998.0,tt0126604
+2284,bandit queen,1994.0,tt0109206
+2285,if....,1968.0,tt0063850
+2287,them!,1954.0,tt0047573
+2290,stardust memories,1980.0,tt0081554
+2291,edward scissorhands,1990.0,tt0099487
+2293,shadrach,1998.0,tt0144604
+2294,antz,1998.0,tt0120587
+2297,what dreams may come,1998.0,tt0120889
+2298,strangeland,1998.0,tt0124102
+2301,history of the world: part i,1981.0,tt0082517
+2302,my cousin vinny,1992.0,tt0104952
+2303,nashville,1975.0,tt0073440
+2305,slam,1998.0,tt0139615
+2306,holy man,1998.0,tt0120701
+2307,one tough cop,1998.0,tt0122642
+2308,detroit 9000,1973.0,tt0069966
+2312,children of a lesser god,1986.0,tt0090830
+2314,beloved,1998.0,tt0120603
+2315,bride of chucky,1998.0,tt0144120
+2316,practical magic,1998.0,tt0120791
+2318,happiness,1998.0,tt0147612
+2320,apt pupil,1998.0,tt0118636
+2321,pleasantville,1998.0,tt0120789
+2322,soldier,1998.0,tt0120157
+2322,soldier,1998.0,tt0211634
+2325,orgazmo,1997.0,tt0124819
+2326,shattered image,1998.0,tt0143874
+2327,tales from the darkside: the movie,1990.0,tt0100740
+2328,vampires,1998.0,tt0120877
+2329,american history x,1998.0,tt0120586
+2331,living out loud,1998.0,tt0120722
+2332,belly,1998.0,tt0158493
+2333,gods and monsters,1998.0,tt0120684
+2336,elizabeth,1998.0,tt0127536
+2337,velvet goldmine,1998.0,tt0120879
+2338,i still know what you did last summer,1998.0,tt0130018
+2339,i'll be home for christmas,1998.0,tt0155753
+2340,meet joe black,1998.0,tt0119643
+2341,dancing at lughnasa,1998.0,tt0120643
+2342,hard core logo,1996.0,tt0116488
+2344,runaway train,1985.0,tt0089941
+2345,desert bloom,1986.0,tt0090934
+2348,sid and nancy,1986.0,tt0091954
+2349,mona lisa,1986.0,tt0091538
+2350,heart condition,1990.0,tt0099750
+2353,enemy of the state,1998.0,tt0120660
+2356,celebrity,1998.0,tt0120533
+2358,savior,1998.0,tt0120070
+2359,waking ned devine,1998.0,tt0166396
+2361,pink flamingos,1972.0,tt0069089
+2362,glen or glenda,1953.0,tt0045826
+2366,king kong,1933.0,tt0024216
+2367,king kong,1976.0,tt0074751
+2368,king kong lives,1986.0,tt0091344
+2369,desperately seeking susan,1985.0,tt0089017
+2371,fletch,1985.0,tt0089155
+2372,fletch lives,1989.0,tt0097366
+2373,red sonja,1985.0,tt0089893
+2374,gung ho,1986.0,tt0091159
+2377,lifeforce,1985.0,tt0089489
+2378,police academy,1984.0,tt0087928
+2379,police academy 2: their first assignment,1985.0,tt0089822
+2380,police academy 3: back in training,1986.0,tt0091777
+2381,police academy 4: citizens on patrol,1987.0,tt0093756
+2382,police academy 5: assignment: miami beach,1988.0,tt0095882
+2383,police academy 6: city under siege,1989.0,tt0098105
+2384,babe: pig in the city,1998.0,tt0120595
+2385,home fries,1998.0,tt0119304
+2387,very bad things,1998.0,tt0124198
+2389,psycho,1998.0,tt0155975
+2390,little voice,1998.0,tt0147004
+2392,jack frost,1998.0,tt0141109
+2393,star trek: insurrection,1998.0,tt0120844
+2395,rushmore,1998.0,tt0128445
+2396,shakespeare in love,1998.0,tt0138097
+2397,mass appeal,1984.0,tt0087688
+2398,miracle on 34th street,1947.0,tt0039628
+2399,santa claus: the movie,1985.0,tt0089961
+2400,prancer,1989.0,tt0098115
+2401,pale rider,1985.0,tt0089767
+2402,rambo: first blood part ii,1985.0,tt0089880
+2403,first blood,1982.0,tt0083944
+2404,rambo iii,1988.0,tt0095956
+2406,romancing the stone,1984.0,tt0088011
+2407,cocoon,1985.0,tt0088933
+2408,cocoon: the return,1988.0,tt0094890
+2409,rocky ii,1979.0,tt0079817
+2410,rocky iii,1982.0,tt0084602
+2411,rocky iv,1985.0,tt0089927
+2412,rocky v,1990.0,tt0100507
+2413,clue,1985.0,tt0088930
+2414,young sherlock holmes,1985.0,tt0090357
+2415,violets are blue...,1986.0,tt0092173
+2416,back to school,1986.0,tt0090685
+2417,heartburn,1986.0,tt0091188
+2418,nothing in common,1986.0,tt0091653
+2419,extremities,1986.0,tt0091024
+2424,you've got mail,1998.0,tt0128853
+2429,mighty joe young,1998.0,tt0120751
+2430,mighty joe young,1949.0,tt0041650
+2431,patch adams,1998.0,tt0129290
+2432,stepmom,1998.0,tt0120686
+2434,down in the delta,1998.0,tt0142231
+2435,hurlyburly,1998.0,tt0119336
+2436,tea with mussolini,1999.0,tt0120857
+2437,wilde,1997.0,tt0120514
+2438,outside ozona,1998.0,tt0144546
+2439,affliction,1997.0,tt0118564
+2440,another day in paradise,1998.0,tt0127722
+2442,hilary and jackie,1998.0,tt0150915
+2443,playing by heart,1998.0,tt0145734
+2445,at first sight,1999.0,tt0132512
+2446,in dreams,1999.0,tt0120710
+2447,varsity blues,1999.0,tt0139699
+2448,virus,1999.0,tt0120458
+2450,howard the duck,1986.0,tt0091225
+2457,running scared,1986.0,tt0091875
+2458,armed and dangerous,1986.0,tt0090660
+2461,leatherface: texas chainsaw massacre iii,1990.0,tt0099994
+2463,ruthless people,1986.0,tt0091877
+2464,trick or treat,1986.0,tt0092112
+2465,deadly friend,1986.0,tt0090917
+2466,belizaire the cajun,1986.0,tt0090710
+2468,jumpin' jack flash,1986.0,tt0091306
+2469,peggy sue got married,1986.0,tt0091738
+2470,crocodile dundee,1986.0,tt0090555
+2471,crocodile dundee ii,1988.0,tt0092493
+2472,tough guys,1986.0,tt0092105
+2473,soul man,1986.0,tt0091991
+2475,52 pick-up,1986.0,tt0090567
+2476,heartbreak ridge,1986.0,tt0091187
+2477,firewalker,1986.0,tt0091055
+2478,three amigos!,1986.0,tt0092086
+2479,gloria,1999.0,tt0120683
+2481,my name is joe,1998.0,tt0151691
+2482,still crazy,1998.0,tt0149151
+2485,she's all that,1999.0,tt0160862
+2487,"blood, guts, bullets and octane",1998.0,tt0163984
+2488,peeping tom,1960.0,tt0054167
+2489,spanish fly,1998.0,tt0152548
+2490,payback,1999.0,tt0120784
+2490,payback,1999.0,tt0212419
+2491,simply irresistible,1999.0,tt0145893
+2492,20 dates,1998.0,tt0138987
+2497,message in a bottle,1999.0,tt0139462
+2498,my favorite martian,1999.0,tt0120764
+2500,jawbreaker,1999.0,tt0155776
+2501,october sky,1999.0,tt0132477
+2502,office space,1999.0,tt0151804
+2504,200 cigarettes,1999.0,tt0137338
+2505,8mm,1999.0,tt0134273
+2507,breakfast of champions,1999.0,tt0120618
+2509,eight days a week,1997.0,tt0119054
+2513,pet sematary,1989.0,tt0098084
+2514,pet sematary ii,1992.0,tt0105128
+2517,christine,1983.0,tt0085333
+2518,night shift,1982.0,tt0084412
+2520,airport,1970.0,tt0065377
+2521,airport 1975,1974.0,tt0071110
+2522,airport '77,1977.0,tt0075648
+2523,rollercoaster,1977.0,tt0076636
+2525,alligator,1980.0,tt0080354
+2526,meteor,1979.0,tt0079550
+2527,westworld,1973.0,tt0070909
+2528,logan's run,1976.0,tt0074812
+2529,planet of the apes,1968.0,tt0063442
+2530,beneath the planet of the apes,1970.0,tt0065462
+2531,battle for the planet of the apes,1973.0,tt0069768
+2532,conquest of the planet of the apes,1972.0,tt0068408
+2533,escape from the planet of the apes,1971.0,tt0067065
+2534,avalanche,1978.0,tt0077189
+2535,earthquake,1974.0,tt0071455
+2537,beyond the poseidon adventure,1979.0,tt0078856
+2538,dancemaker,1998.0,tt0175550
+2539,analyze this,1999.0,tt0122933
+2541,cruel intentions,1999.0,tt0139134
+2543,six ways to sunday,1997.0,tt0127288
+2545,relax... it's just sex,1998.0,tt0159696
+2547,harvest,1998.0,tt0125778
+2549,wing commander,1999.0,tt0131646
+2551,dead ringers,1988.0,tt0094964
+2552,my boyfriend's back,1993.0,tt0107626
+2553,village of the damned,1960.0,tt0054443
+2555,baby geniuses,1999.0,tt0118665
+2556,telling you,1998.0,tt0120859
+2558,forces of nature,1999.0,tt0141098
+2560,ravenous,1999.0,tt0129332
+2561,true crime,1999.0,tt0139668
+2562,bandits,1997.0,tt0118682
+2563,beauty,1998.0,tt0171092
+2566,doug's 1st movie,1999.0,tt0187819
+2567,edtv,1999.0,tt0131369
+2569,among giants,1998.0,tt0122906
+2572,10 things i hate about you,1999.0,tt0147800
+2573,tango,1998.0,tt0120274
+2576,"love, etc.",1996.0,tt0116932
+2577,metroland,1997.0,tt0119665
+2579,following,1998.0,tt0154506
+2580,go,1999.0,tt0139239
+2581,never been kissed,1999.0,tt0151738
+2583,cookie's fortune,1999.0,tt0126250
+2584,foolish,1999.0,tt0166195
+2587,life,1999.0,tt0123964
+2587,life,1999.0,tt0265283
+2589,friends & lovers,1999.0,tt0143261
+2590,hideous kinky,1998.0,tt0136244
+2596,slc punk!,1998.0,tt0133189
+2597,lost & found,1999.0,tt0120836
+2598,pushing tin,1999.0,tt0120797
+2599,election,1999.0,tt0126886
+2600,existenz,1999.0,tt0120907
+2603,nô,1998.0,tt0128370
+2604,let it come down: the life of paul bowles,1998.0,tt0168950
+2605,entrapment,1999.0,tt0137494
+2606,idle hands,1999.0,tt0138510
+2607,get real,1998.0,tt0162973
+2608,heaven,1998.0,tt0120697
+2610,three seasons,1999.0,tt0138874
+2612,mildred pierce,1945.0,tt0037913
+2613,night of the comet,1984.0,tt0087799
+2615,my science project,1985.0,tt0089652
+2616,dick tracy,1990.0,tt0099422
+2616,dick tracy,1990.0,tt0145742
+2619,mascara,1999.0,tt0188052
+2620,this is my father,1998.0,tt0120865
+2623,trippin',1999.0,tt0160298
+2624,after life,1998.0,tt0165078
+2626,edge of seventeen,1998.0,tt0138414
+2627,endurance,1998.0,tt0120659
+2628,star wars: episode i - the phantom menace,1999.0,tt0120915
+2631,frogs for snakes,1998.0,tt0120680
+2639,mommie dearest,1981.0,tt0082766
+2640,superman,1978.0,tt0078346
+2641,superman ii,1980.0,tt0081573
+2642,superman iii,1983.0,tt0086393
+2643,superman iv: the quest for peace,1987.0,tt0094074
+2644,dracula,1931.0,tt0021814
+2646,house of dracula,1945.0,tt0037793
+2647,house of frankenstein,1944.0,tt0036931
+2648,frankenstein,1931.0,tt0021884
+2649,son of frankenstein,1939.0,tt0031951
+2651,frankenstein meets the wolf man,1943.0,tt0035899
+2653,son of dracula,1943.0,tt0036376
+2656,tarantula,1955.0,tt0048696
+2659,it came from hollywood,1982.0,tt0084156
+2661,it came from outer space,1953.0,tt0045920
+2663,it came from beneath the sea,1955.0,tt0048215
+2664,invasion of the body snatchers,1956.0,tt0049366
+2665,earth vs. the flying saucers,1956.0,tt0049169
+2666,it conquered the world,1956.0,tt0049370
+2668,swamp thing,1982.0,tt0084745
+2669,pork chop hill,1959.0,tt0053183
+2671,notting hill,1999.0,tt0125439
+2675,twice upon a yesterday,1998.0,tt0138590
+2676,instinct,1999.0,tt0128278
+2677,buena vista social club,1999.0,tt0186508
+2680,floating,1997.0,tt0139216
+2681,free enterprise,1998.0,tt0141105
+2682,limbo,1999.0,tt0164085
+2682,limbo,1999.0,tt5874116
+2683,austin powers: the spy who shagged me,1999.0,tt0145660
+2687,tarzan,1999.0,tt0120855
+2689,get bruce,1999.0,tt0184510
+2693,trekkies,1997.0,tt0120370
+2694,big daddy,1999.0,tt0142342
+2699,arachnophobia,1990.0,tt0099052
+2701,wild wild west,1999.0,tt0120891
+2702,summer of sam,1999.0,tt0162677
+2703,broken vessels,1998.0,tt0149964
+2706,american pie,1999.0,tt0163651
+2707,arlington road,1999.0,tt0137363
+2709,muppets from space,1999.0,tt0158811
+2711,my life so far,1999.0,tt0120899
+2712,eyes wide shut,1999.0,tt0120663
+2713,lake placid,1999.0,tt0139414
+2716,ghostbusters,1984.0,tt0087332
+2717,ghostbusters ii,1989.0,tt0097428
+2718,drop dead gorgeous,1999.0,tt0157503
+2720,inspector gadget,1999.0,tt0141369
+2721,trick,1999.0,tt0162710
+2722,deep blue sea,1999.0,tt0149261
+2723,mystery men,1999.0,tt0132347
+2724,runaway bride,1999.0,tt0163187
+2725,twin falls idaho,1999.0,tt0162830
+2727,killer's kiss,1955.0,tt0048254
+2728,spartacus,1960.0,tt0054331
+2729,lolita,1962.0,tt0056193
+2730,barry lyndon,1975.0,tt0072684
+2733,vibes,1988.0,tt0096378
+2736,brighton beach memoirs,1986.0,tt0090774
+2737,assassination,1987.0,tt0092585
+2738,crimes of the heart,1986.0,tt0090886
+2741,no mercy,1986.0,tt0091637
+2743,native son,1986.0,tt0091613
+2744,otello,1986.0,tt0091699
+2746,little shop of horrors,1986.0,tt0091419
+2750,radio days,1987.0,tt0093818
+2751,from the hip,1987.0,tt0093051
+2752,outrageous fortune,1987.0,tt0093690
+2755,light of day,1987.0,tt0093415
+2757,frances,1982.0,tt0083967
+2758,plenty,1985.0,tt0089816
+2759,dick,1999.0,tt0144168
+2767,illuminata,1998.0,tt0120709
+2770,bowfinger,1999.0,tt0131325
+2771,brokedown palace,1999.0,tt0120620
+2772,detroit rock city,1999.0,tt0165710
+2774,better than chocolate,1999.0,tt0168987
+2775,head on,1998.0,tt0138487
+2777,cobra,1925.0,tt0015693
+2778,never talk to strangers,1995.0,tt0113965
+2779,heaven can wait,1978.0,tt0077663
+2785,tales of terror,1962.0,tt0056552
+2786,haunted honeymoon,1986.0,tt0091178
+2787,cat's eye,1985.0,tt0088889
+2788,and now for something completely different,1971.0,tt0066765
+2789,damien: omen ii,1978.0,tt0077394
+2791,airplane!,1980.0,tt0080339
+2792,airplane ii: the sequel,1982.0,tt0083530
+2796,funny farm,1988.0,tt0095188
+2797,big,1988.0,tt0094737
+2798,problem child,1990.0,tt0100419
+2799,problem child 2,1991.0,tt0102719
+2802,tequila sunrise,1988.0,tt0096244
+2805,mickey blue eyes,1999.0,tt0130121
+2806,teaching mrs. tingle,1999.0,tt0133046
+2807,universal soldier: the return,1999.0,tt0176269
+2808,universal soldier,1992.0,tt0105698
+2809,love stinks,1999.0,tt0188863
+2810,perfect blue,1997.0,tt0156887
+2812,in too deep,1999.0,tt0160401
+2815,iron eagle,1986.0,tt0091278
+2816,iron eagle ii,1988.0,tt0095382
+2817,aces: iron eagle iii,1992.0,tt0103617
+2819,three days of the condor,1975.0,tt0073802
+2820,hamlet,1964.0,tt0058126
+2820,hamlet,1964.0,tt0058175
+2820,hamlet,1964.0,tt0058177
+2821,male and female,1919.0,tt0010418
+2822,medicine man,1992.0,tt0104839
+2824,on the ropes,1999.0,tt0181733
+2825,rosie,1998.0,tt0163185
+2828,dudley do-right,1999.0,tt0160236
+2833,lucie aubrac,1997.0,tt0119586
+2835,chill factor,1999.0,tt0163579
+2836,outside providence,1999.0,tt0125971
+2838,i woke up early the day i died,1998.0,tt0125211
+2840,stigmata,1999.0,tt0145531
+2841,stir of echoes,1999.0,tt0164181
+2842,best laid plans,1999.0,tt0133412
+2847,only angels have wings,1939.0,tt0031762
+2849,queens logic,1991.0,tt0102741
+2850,public access,1993.0,tt0107895
+2855,nightmares,1983.0,tt0086014
+2856,i saw what you did,1965.0,tt0059297
+2857,yellow submarine,1968.0,tt0063823
+2858,american beauty,1999.0,tt0169547
+2859,stop making sense,1984.0,tt0088178
+2860,blue streak,1999.0,tt0181316
+2861,for love of the game,1999.0,tt0126916
+2864,splendor,1999.0,tt0127296
+2865,sugar town,1999.0,tt0173390
+2867,fright night,1985.0,tt0089175
+2870,barefoot in the park,1967.0,tt0061385
+2871,deliverance,1972.0,tt0068473
+2872,excalibur,1981.0,tt0082348
+2873,lulu on the bridge,1998.0,tt0125879
+2875,sommersby,1993.0,tt0108185
+2876,thumbelina,1994.0,tt0111419
+2877,tommy,1975.0,tt0073812
+2878,hell night,1981.0,tt0082511
+2881,double jeopardy,1999.0,tt0150377
+2882,jakob the liar,1999.0,tt0120716
+2883,mumford,1999.0,tt0140397
+2884,dog park,1998.0,tt0129884
+2885,guinevere,1999.0,tt0160338
+2887,simon sez,1999.0,tt0168172
+2888,drive me crazy,1999.0,tt0164114
+2889,"mystery, alaska",1999.0,tt0134618
+2890,three kings,1999.0,tt0120188
+2891,"happy, texas",1999.0,tt0162360
+2892,new rose hotel,1998.0,tt0133122
+2893,plunkett & macleane,1999.0,tt0134033
+2894,romance,1999.0,tt0194314
+2895,napoleon and samantha,1972.0,tt0068990
+2896,alvarez kelly,1966.0,tt0060095
+2899,gulliver's travels,1939.0,tt0031397
+2900,monkey shines,1988.0,tt0095652
+2901,phantasm,1979.0,tt0079714
+2902,psycho ii,1983.0,tt0086154
+2903,psycho iii,1986.0,tt0091799
+2904,rain,1932.0,tt0023369
+2905,sanjuro,1962.0,tt0056443
+2906,random hearts,1999.0,tt0156934
+2907,superstar,1999.0,tt0167427
+2908,boys don't cry,1999.0,tt0171804
+2909,"five wives, three secretaries and me",1998.0,tt0150574
+2914,molly,1999.0,tt0143746
+2915,risky business,1983.0,tt0086200
+2916,total recall,1990.0,tt0100802
+2917,body heat,1981.0,tt0082089
+2918,ferris bueller's day off,1986.0,tt0091042
+2926,hairspray,1988.0,tt0095270
+2929,reds,1981.0,tt0082979
+2930,return with honor,1998.0,tt0176093
+2932,days of heaven,1978.0,tt0077405
+2939,niagara,1953.0,tt0046126
+2940,gilda,1946.0,tt0038559
+2941,south pacific,1958.0,tt0052225
+2942,flashdance,1983.0,tt0085549
+2943,indochine,1992.0,tt0104507
+2945,mike's murder,1984.0,tt0087722
+2946,help!,1965.0,tt0059260
+2947,goldfinger,1964.0,tt0058150
+2948,from russia with love,1963.0,tt0057076
+2949,dr. no,1962.0,tt0055928
+2953,home alone 2: lost in new york,1992.0,tt0104431
+2954,penitentiary,1979.0,tt0079709
+2955,penitentiary ii,1982.0,tt0084485
+2956,someone to watch over me,1987.0,tt0094008
+2957,sparrows,1926.0,tt0017423
+2958,naturally native,1998.0,tt0133117
+2959,fight club,1999.0,tt0137523
+2962,fever pitch,1997.0,tt0119114
+2963,joe the king,1999.0,tt0160672
+2964,julien donkey-boy,1999.0,tt0192194
+2968,time bandits,1981.0,tt0081633
+2970,fitzcarraldo,1982.0,tt0083946
+2971,all that jazz,1979.0,tt0078754
+2973,crimes and misdemeanors,1989.0,tt0097123
+2974,bats,1999.0,tt0200469
+2976,bringing out the dead,1999.0,tt0163988
+2977,crazy in alabama,1999.0,tt0142201
+2978,three to tango,1999.0,tt0144640
+2979,body shots,1999.0,tt0172627
+2984,on any sunday,1971.0,tt0067527
+2985,robocop,1987.0,tt0093870
+2986,robocop 2,1990.0,tt0100502
+2988,melvin and howard,1980.0,tt0081150
+2989,for your eyes only,1981.0,tt0082398
+2990,licence to kill,1989.0,tt0097742
+2991,live and let die,1973.0,tt0070328
+2992,rawhead rex,1986.0,tt0091829
+2993,thunderball,1965.0,tt0059800
+2996,music of the heart,1999.0,tt0166943
+2997,being john malkovich,1999.0,tt0120601
+2999,man of the century,1999.0,tt0138537
+3007,american movie,1999.0,tt0181288
+3008,last night,1998.0,tt0156729
+3008,last night,1998.0,tt0285283
+3010,rosetta,1999.0,tt0200071
+3011,"they shoot horses, don't they?",1969.0,tt0065088
+3012,battling butler,1926.0,tt0016630
+3013,bride of re-animator,1990.0,tt0099180
+3014,bustin' loose,1981.0,tt0082121
+3015,coma,1978.0,tt0077355
+3016,creepshow,1982.0,tt0083767
+3017,creepshow 2,1987.0,tt0092796
+3018,re-animator,1985.0,tt0089885
+3019,drugstore cowboy,1989.0,tt0097240
+3020,falling down,1993.0,tt0106856
+3023,my best girl,1927.0,tt0018183
+3024,piranha,1978.0,tt0078087
+3025,rough night in jericho,1967.0,tt0062218
+3026,slaughterhouse,1987.0,tt0093990
+3029,nighthawks,1981.0,tt0082817
+3030,yojimbo,1961.0,tt0055630
+3031,repossessed,1990.0,tt0100475
+3033,spaceballs,1987.0,tt0094012
+3034,robin hood,1973.0,tt0070608
+3035,mister roberts,1955.0,tt0048380
+3036,quest for fire,1981.0,tt0082484
+3037,little big man,1970.0,tt0065988
+3039,trading places,1983.0,tt0086465
+3040,meatballs,1979.0,tt0079540
+3041,meatballs part ii,1984.0,tt0087700
+3043,meatballs 4,1992.0,tt0104837
+3044,dead again,1991.0,tt0101669
+3045,peter's friends,1992.0,tt0105130
+3047,experience preferred... but not essential,1982.0,tt0083911
+3048,under the rainbow,1981.0,tt0083254
+3049,how i won the war,1967.0,tt0061789
+3050,light it up,1999.0,tt0172726
+3051,anywhere but here,1999.0,tt0149691
+3052,dogma,1999.0,tt0120655
+3055,felicia's journey,1999.0,tt0165773
+3056,oxygen,1999.0,tt0160620
+3059,british intelligence,1940.0,tt0032283
+3061,holiday inn,1942.0,tt0034862
+3063,poison ivy,1992.0,tt0105156
+3066,tora! tora! tora!,1970.0,tt0066473
+3067,women on the verge of a nervous breakdown,1988.0,tt0095675
+3072,moonstruck,1987.0,tt0093565
+3074,jeremiah johnson,1972.0,tt0068762
+3075,repulsion,1965.0,tt0059646
+3076,irma la douce,1963.0,tt0057187
+3077,42 up,1998.0,tt0164312
+3078,liberty heights,1999.0,tt0165859
+3079,mansfield park,1999.0,tt0178737
+3081,sleepy hollow,1999.0,tt0162661
+3087,scrooged,1988.0,tt0096061
+3088,harvey,1950.0,tt0042546
+3090,matewan,1987.0,tt0093509
+3091,kagemusha,1980.0,tt0080979
+3092,chushingura,1962.0,tt0055850
+3093,mccabe & mrs. miller,1971.0,tt0067411
+3094,maurice,1987.0,tt0093512
+3096,my man godfrey,1957.0,tt0050738
+3099,shampoo,1975.0,tt0073692
+3101,fatal attraction,1987.0,tt0093010
+3102,jagged edge,1985.0,tt0089360
+3103,stanley & iris,1990.0,tt0100680
+3104,midnight run,1988.0,tt0095631
+3105,awakenings,1990.0,tt0099077
+3106,come see the paradise,1990.0,tt0099291
+3107,backdraft,1991.0,tt0101393
+3110,country,1984.0,tt0087091
+3111,places in the heart,1984.0,tt0087921
+3113,end of days,1999.0,tt0146675
+3114,toy story 2,1999.0,tt0120363
+3115,flawless,1999.0,tt0155711
+3116,miss julie,1999.0,tt0189744
+3117,ride with the devil,1999.0,tt0134154
+3117,ride with the devil,1999.0,tt0240867
+3118,tumbleweeds,1999.0,tt0161023
+3122,santa fe trail,1940.0,tt0033021
+3124,agnes browne,1999.0,tt0160509
+3127,holy smoke,1999.0,tt0144715
+3129,sweet and lowdown,1999.0,tt0158371
+3131,broadway damage,1997.0,tt0118780
+3133,go west,1925.0,tt0015863
+3138,stealing home,1988.0,tt0096171
+3139,tarzan the fearless,1933.0,tt0024645
+3142,u2: rattle and hum,1988.0,tt0096328
+3143,hell in the pacific,1968.0,tt0063056
+3146,deuce bigalow: male gigolo,1999.0,tt0205000
+3149,diamonds,1999.0,tt0167423
+3154,blood on the sun,1945.0,tt0037547
+3155,anna and the king,1999.0,tt0166485
+3156,bicentennial man,1999.0,tt0182789
+3157,stuart little,1999.0,tt0164912
+3159,fantasia 2000,1999.0,tt0120910
+3160,magnolia,1999.0,tt0175880
+3161,onegin,1999.0,tt0119079
+3162,simpatico,1999.0,tt0174204
+3163,topsy-turvy,1999.0,tt0151568
+3165,boiling point,1993.0,tt0106455
+3166,brenda starr,1989.0,tt0096978
+3167,carnal knowledge,1971.0,tt0066892
+3168,easy rider,1969.0,tt0064276
+3170,hi-yo silver,1940.0,tt0032590
+3171,room at the top,1959.0,tt0053226
+3173,any given sunday,1999.0,tt0146838
+3174,man on the moon,1999.0,tt0125664
+3175,galaxy quest,1999.0,tt0177789
+3179,angela's ashes,1999.0,tt0145653
+3180,play it to the bone,1999.0,tt0196857
+3181,titus,1999.0,tt0120866
+3184,montana,1998.0,tt0119699
+3185,snow falling on cedars,1999.0,tt0120834
+3186,"girl, interrupted",1999.0,tt0172493
+3187,trans,1998.0,tt0169333
+3190,supernova,2000.0,tt0134983
+3190,supernova,2000.0,tt0282188
+3193,creature,1999.0,tt0198385
+3195,tess of the storm country,1922.0,tt0013662
+3196,stalag 17,1953.0,tt0046359
+3198,papillon,1973.0,tt0070511
+3199,pal joey,1957.0,tt0050815
+3201,five easy pieces,1970.0,tt0065724
+3203,dead calm,1989.0,tt0097162
+3206,against all odds,1984.0,tt0086859
+3208,loaded weapon 1,1993.0,tt0107659
+3210,fast times at ridgemont high,1982.0,tt0083929
+3212,born to win,1971.0,tt0066856
+3213,batman: mask of the phantasm,1993.0,tt0106364
+3214,american flyers,1985.0,tt0088707
+3215,voyage of the damned,1976.0,tt0075406
+3218,poison,1991.0,tt0102687
+3219,pacific heights,1990.0,tt0100318
+3220,night tide,1961.0,tt0055230
+3222,carmen,1984.0,tt0087034
+3225,down to you,2000.0,tt0186975
+3228,wirey spindell,1999.0,tt0153866
+3232,seven chances,1925.0,tt0016332
+3233,smashing time,1967.0,tt0062281
+3235,where the buffalo roam,1980.0,tt0081748
+3236,zachariah,1971.0,tt0068011
+3238,eye of the beholder,1999.0,tt0120662
+3243,encino man,1992.0,tt0104187
+3246,malcolm x,1992.0,tt0104797
+3247,sister act,1992.0,tt0105417
+3248,sister act 2: back in the habit,1993.0,tt0108147
+3250,alive,1993.0,tt0106246
+3251,agnes of god,1985.0,tt0088683
+3252,scent of a woman,1992.0,tt0105323
+3253,wayne's world,1992.0,tt0105793
+3254,wayne's world 2,1993.0,tt0108525
+3256,patriot games,1992.0,tt0105112
+3258,death becomes her,1992.0,tt0104070
+3259,far and away,1992.0,tt0104231
+3260,howards end,1992.0,tt0104454
+3261,singles,1992.0,tt0105415
+3262,twin peaks: fire walk with me,1992.0,tt0105665
+3263,white men can't jump,1992.0,tt0105812
+3264,buffy the vampire slayer,1992.0,tt0103893
+3268,stop! or my mom will shoot,1992.0,tt0105477
+3269,forever young,1992.0,tt0104291
+3271,of mice and men,1992.0,tt0105046
+3272,bad lieutenant,1992.0,tt0103759
+3273,scream 3,2000.0,tt0134084
+3274,single white female,1992.0,tt0105414
+3276,gun shy,2000.0,tt0171356
+3282,different for girls,1996.0,tt0116102
+3283,minnie and moskowitz,1971.0,tt0067433
+3284,they might be giants,1971.0,tt0067848
+3286,snow day,2000.0,tt0184907
+3288,cotton mary,1999.0,tt0159373
+3290,soft toilet seats,1999.0,tt0171764
+3291,trois,2000.0,tt0217107
+3293,conceiving ada,1997.0,tt0118882
+3294,eaten alive,1976.0,tt0074455
+3295,raining stones,1993.0,tt0107920
+3297,with byrd at the south pole,1930.0,tt0020594
+3298,boiler room,2000.0,tt0181984
+3299,hanging up,2000.0,tt0162983
+3300,pitch black,2000.0,tt0134847
+3302,beautiful people,1999.0,tt0159272
+3304,blue collar,1978.0,tt0077248
+3305,bluebeard,1944.0,tt0036653
+3307,city lights,1931.0,tt0021749
+3313,class reunion,1982.0,tt0084395
+3315,happy go lovely,1951.0,tt0043618
+3316,reindeer games,2000.0,tt0184858
+3317,wonder boys,2000.0,tt0185014
+3319,judy berlin,1999.0,tt0181618
+3322,3 strikes,2000.0,tt0199290
+3323,chain of fools,2000.0,tt0194368
+3324,drowning mona,2000.0,tt0186045
+3326,what planet are you from?,2000.0,tt0181151
+3328,ghost dog: the way of the samurai,1999.0,tt0165798
+3330,splendor in the grass,1961.0,tt0055471
+3331,my tutor,1983.0,tt0085980
+3334,key largo,1948.0,tt0040506
+3335,jail bait,1954.0,tt0047127
+3338,for all mankind,1989.0,tt0097372
+3339,cross of iron,1977.0,tt0074695
+3341,born yesterday,1950.0,tt0042276
+3342,birdy,1984.0,tt0086969
+3343,and god created woman,1988.0,tt0092559
+3344,blood feast,1963.0,tt0056875
+3345,"charlie, the lonesome cougar",1967.0,tt0062793
+3346,color me blood red,1965.0,tt0059044
+3347,never cry wolf,1983.0,tt0086005
+3351,two thousand maniacs!,1964.0,tt0058694
+3352,brown's requiem,1998.0,tt0171135
+3354,mission to mars,2000.0,tt0183523
+3356,condo painting,2000.0,tt0154352
+3358,defending your life,1991.0,tt0101698
+3359,breaking away,1979.0,tt0078902
+3360,hoosiers,1986.0,tt0091217
+3361,bull durham,1988.0,tt0094812
+3362,dog day afternoon,1975.0,tt0072890
+3363,american graffiti,1973.0,tt0069704
+3370,betrayed,1988.0,tt0094731
+3371,bound for glory,1976.0,tt0074235
+3373,buck and the preacher,1972.0,tt0068323
+3375,destination moon,1950.0,tt0042393
+3379,on the beach,1959.0,tt0053137
+3380,railroaded!,1947.0,tt0039748
+3381,slaves to the underground,1997.0,tt0117664
+3382,song of freedom,1936.0,tt0028282
+3383,big fella,1937.0,tt0028629
+3385,volunteers,1985.0,tt0090274
+3386,jfk,1991.0,tt0102138
+3387,who's harry crumb?,1989.0,tt0098645
+3388,harry and the hendersons,1987.0,tt0093148
+3389,let's get harry,1986.0,tt0091400
+3390,shanghai surprise,1986.0,tt0091934
+3392,she-devil,1989.0,tt0098309
+3393,date with an angel,1987.0,tt0092834
+3394,blind date,1987.0,tt0092666
+3395,nadine,1987.0,tt0093596
+3400,we're back! a dinosaur's story,1993.0,tt0108526
+3402,turtle diary,1985.0,tt0090219
+3403,raise the titanic,1980.0,tt0081400
+3404,titanic,1953.0,tt0046435
+3406,captain horatio hornblower,1951.0,tt0043379
+3408,erin brockovich,2000.0,tt0195685
+3409,final destination,2000.0,tt0195714
+3410,soft fruit,1999.0,tt0180181
+3411,babymother,1998.0,tt0168475
+3413,impact,1949.0,tt0041503
+3414,love is a many-splendored thing,1955.0,tt0048316
+3418,thelma & louise,1991.0,tt0103074
+3419,something for everyone,1970.0,tt0066392
+3422,she's gotta have it,1986.0,tt0091939
+3423,school daze,1988.0,tt0096054
+3424,do the right thing,1989.0,tt0097216
+3425,mo' better blues,1990.0,tt0100168
+3426,jungle fever,1991.0,tt0102175
+3427,coogan's bluff,1968.0,tt0062824
+3430,death wish,1974.0,tt0071402
+3431,death wish ii,1982.0,tt0082250
+3432,death wish 3,1985.0,tt0089003
+3433,death wish 4: the crackdown,1987.0,tt0092857
+3435,double indemnity,1944.0,tt0036775
+3436,dying young,1991.0,tt0101787
+3437,cool as ice,1991.0,tt0101615
+3438,teenage mutant ninja turtles,1990.0,tt0100758
+3439,teenage mutant ninja turtles ii: the secret of the ooze,1991.0,tt0103060
+3440,teenage mutant ninja turtles iii,1993.0,tt0108308
+3441,red dawn,1984.0,tt0087985
+3442,band of the hand,1986.0,tt0090693
+3443,born american,1986.0,tt0091313
+3444,bloodsport,1988.0,tt0092675
+3445,eyes of laura mars,1978.0,tt0077530
+3446,funny bones,1995.0,tt0113133
+3448,"good morning, vietnam",1987.0,tt0093105
+3450,grumpy old men,1993.0,tt0107050
+3451,guess who's coming to dinner,1967.0,tt0061735
+3452,romeo must die,2000.0,tt0165929
+3453,here on earth,2000.0,tt0195778
+3454,whatever it takes,2000.0,tt0202402
+3455,buddy boy,1999.0,tt0146516
+3459,gothic,1986.0,tt0091142
+3460,hillbillys in a haunted house,1967.0,tt0061765
+3461,lord of the flies,1963.0,tt0057261
+3462,modern times,1936.0,tt0027977
+3465,that's life!,1986.0,tt0092079
+3466,heart and souls,1993.0,tt0107091
+3467,hud,1963.0,tt0057163
+3469,inherit the wind,1960.0,tt0053946
+3471,close encounters of the third kind,1977.0,tt0075860
+3473,jonah who will be 25 in the year 2000,1976.0,tt0074718
+3474,retroactive,1997.0,tt0117468
+3476,jacob's ladder,1990.0,tt0099871
+3476,jacob's ladder,1990.0,tt0884859
+3477,empire records,1995.0,tt0112950
+3479,ladyhawke,1985.0,tt0089457
+3480,lucas,1986.0,tt0091445
+3481,high fidelity,2000.0,tt0146882
+3482,price of glory,2000.0,tt0188160
+3486,devil girl from mars,1954.0,tt0046907
+3489,hook,1991.0,tt0102057
+3490,horror express,1972.0,tt0068713
+3491,my chauffeur,1986.0,tt0091579
+3494,true grit,1969.0,tt0065126
+3495,roadside prophets,1992.0,tt0105267
+3496,madame sousatzka,1988.0,tt0095564
+3497,max dugan returns,1983.0,tt0085919
+3498,midnight express,1978.0,tt0077928
+3499,misery,1990.0,tt0100157
+3500,mr. saturday night,1992.0,tt0104928
+3501,murphy's romance,1985.0,tt0089643
+3502,my life,1993.0,tt0107630
+3504,network,1976.0,tt0074958
+3505,no way out,1987.0,tt0093640
+3506,north dallas forty,1979.0,tt0079640
+3509,black and white,1999.0,tt0149898
+3510,frequency,2000.0,tt0186151
+3511,ready to rumble,2000.0,tt0217756
+3512,return to me,2000.0,tt0122459
+3513,rules of engagement,2000.0,tt0160797
+3514,joe gould's secret,2000.0,tt0172632
+3519,force 10 from navarone,1978.0,tt0077572
+3520,how to stuff a wild bikini,1965.0,tt0059287
+3521,mystery train,1989.0,tt0097940
+3523,taffin,1988.0,tt0096211
+3524,arthur,1981.0,tt0082031
+3525,bachelor party,1984.0,tt0086927
+3526,parenthood,1989.0,tt0098067
+3527,predator,1987.0,tt0093773
+3530,smoking/no smoking,1993.0,tt0108167
+3531,all the vermeers in new york,1990.0,tt0099014
+3534,28 days,2000.0,tt0191754
+3535,american psycho,2000.0,tt0144084
+3536,keeping the faith,2000.0,tt0171433
+3537,where the money is,2000.0,tt0149367
+3538,east is east,1999.0,tt0166175
+3541,third world cop,1999.0,tt0179063
+3542,coming apart,1969.0,tt0064180
+3543,diner,1982.0,tt0083833
+3544,shakes the clown,1991.0,tt0102898
+3545,cabaret,1972.0,tt0068327
+3546,what ever happened to baby jane?,1962.0,tt0056687
+3547,prick up your ears,1987.0,tt0093776
+3548,auntie mame,1958.0,tt0051383
+3549,guys and dolls,1955.0,tt0048140
+3551,marathon man,1976.0,tt0074860
+3552,caddyshack,1980.0,tt0080487
+3553,gossip,2000.0,tt0176783
+3553,gossip,2000.0,tt0238251
+3555,u-571,2000.0,tt0141926
+3557,jennifer 8,1992.0,tt0104549
+3559,limelight,1952.0,tt0044837
+3562,committed,2000.0,tt0144142
+3565,where the heart is,2000.0,tt0198021
+3572,carnosaur,1993.0,tt0106521
+3573,carnosaur 2,1995.0,tt0112634
+3574,carnosaur 3: primal species,1996.0,tt0115834
+3575,defying gravity,1997.0,tt0156460
+3578,gladiator,2000.0,tt0172495
+3579,i dreamed of africa,2000.0,tt0167203
+3580,up at the villa,2000.0,tt0153464
+3581,human traffic,1999.0,tt0188674
+3582,"jails, hospitals & hip-hop",2000.0,tt0210130
+3584,breathless,1983.0,tt0085276
+3587,inferno,1980.0,tt0080923
+3591,mr. mom,1983.0,tt0085970
+3593,battlefield earth,2000.0,tt0185183
+3594,center stage,2000.0,tt0210616
+3596,screwed,2000.0,tt0156323
+3597,whipped,2000.0,tt0174336
+3598,hamlet,2000.0,tt0171359
+3598,hamlet,2000.0,tt0243951
+3598,hamlet,2000.0,tt0357719
+3599,anchors aweigh,1945.0,tt0037514
+3600,blue hawaii,1961.0,tt0054692
+3604,gypsy,1962.0,tt0056048
+3605,king creole,1958.0,tt0051818
+3606,on the town,1949.0,tt0041716
+3607,one little indian,1973.0,tt0070481
+3608,pee-wee's big adventure,1985.0,tt0089791
+3609,regret to inform,1998.0,tt0181786
+3610,roustabout,1964.0,tt0058534
+3613,things change,1988.0,tt0096259
+3614,honeymoon in vegas,1992.0,tt0104438
+3615,dinosaur,2000.0,tt0130623
+3616,loser,2000.0,tt0217630
+3617,road trip,2000.0,tt0215129
+3618,small time crooks,2000.0,tt0196216
+3621,possession,1981.0,tt0082933
+3624,shanghai noon,2000.0,tt0184894
+3625,better living through circuitry,1999.0,tt0207998
+3627,carnival of souls,1962.0,tt0055830
+3628,flying tigers,1942.0,tt0034742
+3632,monsieur verdoux,1947.0,tt0039631
+3633,on her majesty's secret service,1969.0,tt0064757
+3634,seven days in may,1964.0,tt0058576
+3638,moonraker,1979.0,tt0079574
+3642,in old california,1942.0,tt0034889
+3644,dark command,1940.0,tt0032383
+3646,big momma's house,2000.0,tt0208003
+3649,american gigolo,1980.0,tt0080365
+3656,lured,1947.0,tt0039589
+3657,pandora and the flying dutchman,1951.0,tt0043899
+3658,quatermass and the pit,1967.0,tt0062168
+3668,romeo and juliet,1968.0,tt0063518
+3669,stay tuned,1992.0,tt0105466
+3671,blazing saddles,1974.0,tt0071230
+3672,benji,1974.0,tt0071206
+3673,benji the hunted,1987.0,tt0092638
+3674,for the love of benji,1977.0,tt0076044
+3675,white christmas,1954.0,tt0047673
+3676,eraserhead,1977.0,tt0074486
+3677,baraka,1992.0,tt0103767
+3681,for a few dollars more,1965.0,tt0059578
+3682,magnum force,1973.0,tt0070355
+3683,blood simple,1984.0,tt0086979
+3685,prizzi's honor,1985.0,tt0089841
+3686,flatliners,1990.0,tt0099582
+3688,porky's,1981.0,tt0084522
+3689,porky's ii: the next day,1983.0,tt0086129
+3690,porky's revenge,1985.0,tt0089826
+3691,private school,1983.0,tt0086143
+3692,class of nuke 'em high,1986.0,tt0090849
+3696,night of the creeps,1986.0,tt0091630
+3697,predator 2,1990.0,tt0100403
+3699,starman,1984.0,tt0088172
+3701,alien nation,1988.0,tt0094631
+3702,mad max,1979.0,tt0079501
+3704,mad max beyond thunderdome,1985.0,tt0089530
+3705,bird on a wire,1990.0,tt0099141
+3706,angel heart,1987.0,tt0092563
+3708,firestarter,1984.0,tt0087262
+3709,sleepwalkers,1992.0,tt0105428
+3710,action jackson,1988.0,tt0094612
+3711,sarafina!,1992.0,tt0105316
+3712,soapdish,1991.0,tt0102951
+3714,clara's heart,1988.0,tt0094882
+3715,burglar,1987.0,tt0092710
+3716,fatal beauty,1987.0,tt0093011
+3717,gone in 60 seconds,2000.0,tt0187078
+3718,american pimp,1999.0,tt0179074
+3719,love's labour's lost,2000.0,tt0182295
+3720,sunshine,1999.0,tt0145503
+3723,hamlet,1990.0,tt0099726
+3723,hamlet,1990.0,tt0252495
+3724,coming home,1978.0,tt0077362
+3725,american pop,1981.0,tt0082009
+3726,assault on precinct 13,1976.0,tt0074156
+3727,near dark,1987.0,tt0093605
+3729,shaft,1971.0,tt0067741
+3731,cutter's way,1981.0,tt0082220
+3734,prince of the city,1981.0,tt0082945
+3735,serpico,1973.0,tt0070666
+3737,lonely are the brave,1962.0,tt0056195
+3739,trouble in paradise,1932.0,tt0023622
+3740,big trouble in little china,1986.0,tt0090728
+3741,badlands,1973.0,tt0069762
+3743,boys and girls,2000.0,tt0204175
+3744,shaft,2000.0,tt0162650
+3745,titan a.e.,2000.0,tt0120913
+3747,jesus' son,1999.0,tt0186253
+3750,boricua's bond,2000.0,tt0217287
+3751,chicken run,2000.0,tt0120630
+3757,asylum,1972.0,tt0068230
+3757,asylum,1972.0,tt0775421
+3758,communion,1989.0,tt0097100
+3759,fun and fancy free,1947.0,tt0039404
+3763,f/x,1986.0,tt0089118
+3766,missing in action,1984.0,tt0087727
+3767,missing in action 2: the beginning,1985.0,tt0089604
+3768,braddock: missing in action iii,1988.0,tt0094792
+3769,thunderbolt and lightfoot,1974.0,tt0072288
+3770,dreamscape,1984.0,tt0087175
+3773,house party,1990.0,tt0099800
+3774,house party 2,1991.0,tt0102065
+3775,make mine music,1946.0,tt0038718
+3776,melody time,1948.0,tt0040580
+3778,on our merry way,1948.0,tt0040664
+3779,project moon base,1953.0,tt0046213
+3780,rocketship x-m,1950.0,tt0042897
+3781,shaft in africa,1973.0,tt0070679
+3782,shaft's big score!,1972.0,tt0069257
+3783,croupier,1998.0,tt0159382
+3785,scary movie,2000.0,tt0175142
+3786,but i'm a cheerleader,1999.0,tt0179116
+3790,groove,2000.0,tt0212974
+3791,footloose,1984.0,tt0087277
+3792,duel in the sun,1946.0,tt0038499
+3793,x-men,2000.0,tt0120903
+3794,chuck & buck,2000.0,tt0200530
+3798,what lies beneath,2000.0,tt0161081
+3801,anatomy of a murder,1959.0,tt0052561
+3802,freejack,1992.0,tt0104299
+3803,greaser's palace,1972.0,tt0068659
+3804,h.o.t.s.,1979.0,tt0079257
+3805,knightriders,1981.0,tt0082622
+3806,mackenna's gold,1969.0,tt0064615
+3807,sinbad and the eye of the tiger,1977.0,tt0076716
+3809,what about bob?,1991.0,tt0103241
+3810,white sands,1992.0,tt0105813
+3811,breaker morant,1980.0,tt0080310
+3813,interiors,1978.0,tt0077742
+3814,love and death,1975.0,tt0073312
+3818,pot o' gold,1941.0,tt0034055
+3820,thomas and the magic railroad,2000.0,tt0205461
+3821,nutty professor ii: the klumps,2000.0,tt0144528
+3823,wonderland,1999.0,tt0171865
+3824,autumn in new york,2000.0,tt0174480
+3825,coyote ugly,2000.0,tt0200550
+3826,hollow man,2000.0,tt0164052
+3827,space cowboys,2000.0,tt0186566
+3828,better living,1998.0,tt0131972
+3829,mad about mambo,2000.0,tt0156757
+3830,psycho beach party,2000.0,tt0206226
+3831,saving grace,2000.0,tt0195234
+3834,bronco billy,1980.0,tt0080472
+3836,kelly's heroes,1970.0,tt0065938
+3837,phantasm ii,1988.0,tt0095863
+3838,phantasm iii: lord of the dead,1994.0,tt0110823
+3839,phantasm iv: oblivion,1998.0,tt0138703
+3840,pumpkinhead,1988.0,tt0095925
+3841,air america,1990.0,tt0099005
+3843,sleepaway camp,1983.0,tt0086320
+3844,steel magnolias,1989.0,tt0098384
+3846,easy money,1983.0,tt0085470
+3848,silent fall,1994.0,tt0111187
+3857,bless the child,2000.0,tt0163983
+3858,cecil b. demented,2000.0,tt0173716
+3862,about adam,2000.0,tt0199314
+3866,sunset strip,2000.0,tt0178050
+3870,our town,1940.0,tt0032881
+3871,shane,1953.0,tt0046303
+3872,"suddenly, last summer",1959.0,tt0053318
+3873,cat ballou,1965.0,tt0059017
+3877,supergirl,1984.0,tt0088206
+3881,bittersweet motel,2000.0,tt0168515
+3882,bring it on,2000.0,tt0204946
+3885,love & sex,2000.0,tt0234137
+3887,went to coney island on a mission from god... be back by five,1998.0,tt0157182
+3888,skipped parts,2000.0,tt0209322
+3889,highlander: endgame,2000.0,tt0144964
+3891,turn it up,2000.0,tt0216772
+3893,nurse betty,2000.0,tt0171580
+3894,solas,1999.0,tt0190798
+3897,almost famous,2000.0,tt0181875
+3898,bait,2000.0,tt0211938
+3899,circus,2000.0,tt0191037
+3901,duets,2000.0,tt0134630
+3903,urbania,2000.0,tt0182508
+3906,under suspicion,2000.0,tt0164212
+3908,urban legends: final cut,2000.0,tt0192731
+3909,woman on top,2000.0,tt0206420
+3910,dancer in the dark,2000.0,tt0168629
+3911,best in show,2000.0,tt0218839
+3912,beautiful,2000.0,tt0210567
+3913,barenaked in america,1999.0,tt0211219
+3915,girlfight,2000.0,tt0210075
+3916,remember the titans,2000.0,tt0210945
+3917,hellraiser,1987.0,tt0093177
+3918,hellbound: hellraiser ii,1988.0,tt0095294
+3919,hellraiser iii: hell on earth,1992.0,tt0104409
+3921,beach party,1963.0,tt0056860
+3922,bikini beach,1964.0,tt0057887
+3923,return of the fly,1959.0,tt0053219
+3924,pajama party,1964.0,tt0058440
+3925,stranger than paradise,1984.0,tt0088184
+3926,voyage to the bottom of the sea,1961.0,tt0055608
+3927,fantastic voyage,1966.0,tt0060397
+3928,abbott and costello meet frankenstein,1948.0,tt0040068
+3934,kronos,1957.0,tt0050610
+3937,runaway,1984.0,tt0088024
+3941,sorority house massacre,1986.0,tt0091990
+3942,sorority house massacre ii,1990.0,tt0100663
+3943,bamboozled,2000.0,tt0215545
+3944,bootmen,2000.0,tt0210584
+3945,digimon: the movie,2000.0,tt0259974
+3946,get carter,2000.0,tt0208988
+3947,get carter,1971.0,tt0067128
+3948,meet the parents,2000.0,tt0212338
+3949,requiem for a dream,2000.0,tt0180093
+3950,tigerland,2000.0,tt0170691
+3951,two family house,2000.0,tt0202641
+32,,1995.0,tt0114746
+96,,1995.0,tt0113403
+165,,1995.0,tt0112864
+366,,1994.0,tt0111686
+405,,1994.0,tt0110027
+576,,1993.0,tt0106878
+625,,1990.0,tt0090665
+654,,1996.0,tt0118026
+729,,1995.0,tt0113429
+825,,1996.0,tt0116164
+894,,1933.0,tt0024252
+1134,,1993.0,tt0107274
+1149,,1994.0,tt0110173
+1174,,1994.0,tt0109942
+1198,,1981.0,tt0082971
+1241,,1992.0,tt0103873
+1294,,1970.0,tt0066026
+1320,,1992.0,tt0103644
+1340,,1935.0,tt0026138
+1467,,1996.0,tt0117544
+1809,,1997.0,tt0119250
+1988,,1987.0,tt0093176
+2117,,1984.0,tt0087803
+2214,,1932.0,tt0023285
+2224,,1927.0,tt0017825
+2248,,1989.0,tt0098258
+2262,,1986.0,tt0090583
+2645,,1958.0,tt0051554
+2670,,1958.0,tt0052151
+2684,,1999.0,tt0143924
+2811,,1998.0,tt0119692
+2818,,1995.0,tt0113438
+3009,,1996.0,tt0117365
+3434,,1994.0,tt0109578
+3707,,1986.0,tt0091635
+3854,,1999.0,tt0130444
+128,,,tt0110217
+157,,,tt0109370
+183,,,tt0110604
+230,,,tt0109642
+248,,,tt0110066
+250,,,tt0110006
+267,,,tt0110443
+285,,,tt0106402
+291,,,tt0114151
+346,,,tt0106339
+373,,,tt0105226
+418,,,tt0106379
+565,,,tt0104029
+604,,,tt0115978
+604,,,tt0137446
+667,,,tt0112536
+675,,,tt0110061
+678,,,tt0108181
+685,,,tt0113443
+698,,,tt0109593
+750,,,tt0057012
+756,,,tt0109381
+815,,,tt0114170
+826,,,tt0112865
+1108,,,tt0114176
+1136,,,tt0071853
+1315,,,tt0114093
+1316,,,tt1606594
+1444,,,tt0109949
+1557,,,tt0117724
+1710,,,tt0116976
+1743,,,tt0129758
+1819,,,tt0120219
+1989,,,tt0098136
+2008,,,tt0117898
+2010,,,tt0017136
+2029,,,tt0137386
+2103,,,tt0111359
+2213,,,tt0024747
+2274,,,tt0113658
+2277,,,tt0120162
+2319,,,tt0119986
+2519,,,tt0051744
+2554,,,tt0056931
+2588,,,tt0127489
+2851,,,tt0079285
+2921,,,tt0068699
+2922,,,tt0061747
+2980,,,tt0148462
+2998,,,tt0144178
+3071,,,tt0094027
+3177,,,tt0195945
+3189,,,tt0156812
+3279,,,tt0143344
+3279,,,tt0195860
+3303,,,tt0221023
+3318,,,tt0158583
+3457,,,tt0127349
+3470,,,tt0071411
+3540,,,tt0160644
+3561,,,tt0084723
+3567,,,tt0180837
+3721,,,tt0162711
+3728,,,tt0102592
+3777,,,tt0093608
+841,eyes without a face,,tt0053459
+224,,,tt0112883
+243,,,tt0113199
+301,,,tt0114129
+322,,,tt0114594
+395,,,tt0112849
+402,,,tt0114047
+422,,,tt0109297
+482,,,tt0110265
+506,,,tt0107756
+566,,,tt0110623
+618,,,tt0118001
+657,,,tt0111787
+853,,,tt0104109
+868,,,tt0101692
+871,,,tt0116934
+970,,,tt0046414
+985,,,tt0117669
+1026,,,tt0041890
+1071,,,tt0109823
+1110,,,tt0115684
+1112,,,tt0117284
+1121,,,tt0116422
+1122,,,tt0114147
+1142,,,tt0116403
+1215,,,tt0106308
+1269,,,tt0036613
+1285,,,tt0097493
+1289,,,tt0085809
+1335,,,tt0082083
+1404,,,tt0119783
+1430,,,tt0120414
+1454,,,tt0120238
+1547,,,tt0120118
+1577,,,tt0117076
+1679,,,tt0118836
+1780,,,tt0118662
+1782,,,tt0119548
+1815,,,tt0119049
+1850,,,tt0130019
+1852,,,tt0118727
+1865,,,tt0141986
+1899,,,tt0125980
+1924,,,tt0052077
+1984,,,tt0085636
+1990,,,tt0105179
+1993,,,tt0103956
+2014,,,tt0076054
+2079,,,tt0053994
+2148,,,tt0091223
+2215,,,tt0023395
+2233,,,tt0118980
+2484,,,tt0120095
+2496,,,tt0124298
+2510,,,tt0123221
+2515,,,tt0106557
+2678,,,tt0126261
+2679,,,tt0124555
+2697,,,tt0119743
+2698,,,tt0120554
+2754,,,tt0092850
+2756,,,tt0094293
+2768,,,tt0120210
+2927,,,tt0037558
+2936,,,tt0034240
+2960,,,tt0187712
+3057,,,tt0118150
+3084,,,tt0144969
+3229,,,tt0044364
+3327,,,tt0218043
+3340,,,tt0047898
+3366,,,tt0065207
+3374,,,tt0104057
+3429,,,tt0099317
+3515,,,tt0183503
+3595,,,tt0165831
+3611,,,tt0036326
+3631,,,tt0116661
+3647,,,tt0173910
+3667,,,tt0095977
+3687,,,tt3351342
+3819,,,tt0092048
+3883,,,tt0162903
+298,pushing hands,,tt0105652
+598,window to paris,,tt0110719
+1190,tie me up! tie me down!,,tt0101026
+1209,once upon a time in the west,,tt0064116
+1659,hurricane streets,,tt0119338
+2848,othello,,tt0045251
+2862,caligula,,tt0080491
+3799,pokémon the movie 2000,,tt0210234
+11,,1995.0,tt0112346
+50,,1995.0,tt0114814
+54,,1995.0,tt0112499
+60,,1995.0,tt0113419
+78,,1995.0,tt0112744
+79,,1996.0,tt0116731
+90,,1995.0,tt0113490
+105,,1995.0,tt0112579
+117,,1995.0,tt0115033
+138,,1995.0,tt0113952
+141,,1996.0,tt0115685
+144,,1995.0,tt0112585
+146,,1995.0,tt0112342
+147,,1995.0,tt0112461
+148,,1995.0,tt0112427
+152,,1995.0,tt0112288
+166,,1995.0,tt0112887
+185,,1995.0,tt0113957
+188,,1995.0,tt0114194
+191,,1995.0,tt0114345
+192,,1995.0,tt0114435
+197,,1995.0,tt0114534
+200,,1995.0,tt0114666
+207,,1995.0,tt0114887
+211,,1994.0,tt0109340
+217,,1995.0,tt0112438
+219,,1995.0,tt0112757
+239,,1995.0,tt0113198
+245,,1994.0,tt0109906
+251,,1995.0,tt0113360
+258,,1995.0,tt0113538
+262,,1995.0,tt0113670
+272,,1994.0,tt0110428
+294,,1995.0,tt0114113
+295,,1995.0,tt0114210
+303,,1995.0,tt0114214
+313,,1994.0,tt0111333
+314,,1994.0,tt0111112
+315,,1994.0,tt0111255
+317,,1994.0,tt0111070
+318,,1994.0,tt0111161
+324,,1994.0,tt0111309
+336,,1995.0,tt0114888
+340,,1994.0,tt0111667
+343,,1995.0,tt0112435
+345,,1994.0,tt0109045
+350,,1994.0,tt0109446
+353,,1994.0,tt0109506
+355,,1994.0,tt0109813
+362,,1994.0,tt0110213
+364,,1994.0,tt0110357
+367,,1994.0,tt0110475
+371,,1994.0,tt0110771
+376,,1994.0,tt0110997
+385,,1994.0,tt0110455
+387,,1994.0,tt0110399
+389,,1994.0,tt0109454
+392,,1993.0,tt0108069
+397,,1995.0,tt0113043
+412,,1993.0,tt0106226
+414,,1994.0,tt0109067
+419,,1993.0,tt0106400
+428,,1993.0,tt0106489
+438,,1994.0,tt0109493
+443,,1994.0,tt0109729
+447,,1994.0,tt0109783
+454,,1993.0,tt0106918
+457,,1993.0,tt0106977
+459,,1994.0,tt0109890
+462,,1994.0,tt0109920
+469,,1993.0,tt0107151
+471,,1994.0,tt0110074
+476,,1994.0,tt0110137
+491,,1993.0,tt0107501
+502,,1994.0,tt0110657
+503,,1994.0,tt0110649
+507,,1993.0,tt0107808
+509,,1993.0,tt0107822
+511,,1993.0,tt0107889
+514,,1994.0,tt0110955
+515,,1993.0,tt0107943
+518,,1994.0,tt0111001
+525,,1993.0,tt0108026
+528,,1994.0,tt0111094
+531,,1993.0,tt0108071
+533,,1994.0,tt0111143
+536,,1994.0,tt0111194
+551,,1993.0,tt0107688
+552,,1993.0,tt0108333
+556,,1993.0,tt0108515
+558,,1994.0,tt0110763
+560,,1994.0,tt0109226
+575,,1994.0,tt0110366
+578,,1993.0,tt0107146
+579,,1993.0,tt0108059
+581,,1995.0,tt0112651
+585,,1995.0,tt0112572
+593,,1991.0,tt0102926
+599,,1969.0,tt0065214
+602,,1994.0,tt0109934
+612,,1996.0,tt0117283
+616,,1970.0,tt0065421
+623,,1995.0,tt0113839
+626,,1996.0,tt0117891
+627,,1995.0,tt0113613
+635,,1996.0,tt0116275
+679,,1995.0,tt0114307
+694,,1996.0,tt0117774
+704,,1996.0,tt0117420
+708,,1996.0,tt0117979
+722,,1995.0,tt0113270
+724,,1996.0,tt0115963
+725,,1996.0,tt0116448
+733,,1996.0,tt0117500
+745,,1995.0,tt0112691
+747,,1996.0,tt0117768
+748,,1996.0,tt0115571
+749,,1943.0,tt0031612
+753,,1995.0,tt0113849
+761,,1996.0,tt0117331
+767,,1995.0,tt0113211
+782,,1996.0,tt0116277
+783,,1996.0,tt0116583
+784,,1996.0,tt0115798
+788,,1996.0,tt0117218
+796,,1974.0,tt0072362
+799,,1996.0,tt0116365
+805,,1996.0,tt0117913
+811,,1994.0,tt0109255
+814,,1995.0,tt0112568
+818,,1996.0,tt0118073
+823,,1967.0,tt0061495
+828,,1996.0,tt0115472
+830,,1996.0,tt0116313
+839,,1996.0,tt0115986
+847,,1996.0,tt0115680
+848,,1996.0,tt0117718
+858,,1972.0,tt0068646
+859,,1996.0,tt0116536
+864,,1995.0,tt0114936
+879,,1997.0,tt0120004
+880,,1996.0,tt0116654
+882,,1996.0,tt0117965
+898,,1940.0,tt0032904
+900,,1951.0,tt0043278
+907,,1934.0,tt0025164
+909,,1960.0,tt0053604
+913,,1941.0,tt0033870
+917,,1939.0,tt0031580
+919,,1939.0,tt0032138
+927,,1939.0,tt0032143
+932,,1957.0,tt0050105
+935,,1953.0,tt0045537
+939,,1958.0,tt0052126
+940,,1938.0,tt0029843
+941,,1940.0,tt0032762
+943,,1947.0,tt0039420
+950,,1934.0,tt0025878
+957,,1926.0,tt0017350
+963,,1949.0,tt0041509
+965,,1935.0,tt0026029
+966,,1945.0,tt0038235
+967,,1943.0,tt0036241
+969,,1951.0,tt0043265
+972,,1954.0,tt0047162
+976,,1932.0,tt0022879
+992,,1996.0,tt0117473
+1004,,1996.0,tt0116421
+1006,,1996.0,tt0115862
+1007,,1975.0,tt0072653
+1013,,1961.0,tt0055277
+1016,,1959.0,tt0053271
+1025,,1963.0,tt0057546
+1033,,1981.0,tt0082406
+1035,,1965.0,tt0059742
+1037,,1992.0,tt0104692
+1040,,1996.0,tt0117582
+1047,,1996.0,tt0116908
+1049,,1996.0,tt0116409
+1052,,1996.0,tt0117400
+1062,,1996.0,tt0117781
+1065,,1950.0,tt0043140
+1067,,1937.0,tt0028757
+1076,,1961.0,tt0055018
+1079,,1988.0,tt0095159
+1082,,1972.0,tt0068334
+1083,,1965.0,tt0059243
+1085,,1958.0,tt0052027
+1093,,1991.0,tt0101761
+1094,,1992.0,tt0104036
+1099,,1938.0,tt0029992
+1104,,1951.0,tt0044081
+1106,,1996.0,tt0116859
+1113,,1996.0,tt0115580
+1114,,1996.0,tt0116378
+1120,,1996.0,tt0117318
+1123,,1996.0,tt0117320
+1127,,1989.0,tt0096754
+1128,,1980.0,tt0080749
+1148,,1993.0,tt0108598
+1157,,1946.0,tt0039004
+1162,,1972.0,tt0069198
+1165,,1996.0,tt0115715
+1179,,1990.0,tt0099703
+1181,,1995.0,tt0114432
+1183,,1996.0,tt0116209
+1189,,1988.0,tt0096257
+1197,,1987.0,tt0093779
+1205,,1986.0,tt0092106
+1206,,1971.0,tt0066921
+1212,,1949.0,tt0041959
+1220,,1980.0,tt0080455
+1221,,1974.0,tt0071562
+1226,,1952.0,tt0045061
+1231,,1983.0,tt0086197
+1234,,1973.0,tt0070735
+1240,,1984.0,tt0088247
+1247,,1967.0,tt0061722
+1250,,1957.0,tt0050212
+1253,,1951.0,tt0043456
+1254,,1948.0,tt0040897
+1258,,1980.0,tt0081505
+1262,,1963.0,tt0057115
+1263,,1978.0,tt0077416
+1267,,1962.0,tt0056218
+1281,,1940.0,tt0032553
+1284,,1946.0,tt0038355
+1295,,1988.0,tt0096332
+1299,,1984.0,tt0087553
+1303,,1975.0,tt0073341
+1321,,1981.0,tt0082010
+1327,,1979.0,tt0078767
+1332,,1987.0,tt0092632
+1333,,1963.0,tt0056869
+1334,,1958.0,tt0051418
+1337,,1945.0,tt0037549
+1347,,1984.0,tt0087800
+1350,,1976.0,tt0075005
+1353,,1996.0,tt0117057
+1363,,1996.0,tt0117372
+1366,,1996.0,tt0115988
+1384,,1996.0,tt0117773
+1406,,1995.0,tt0112769
+1408,,1992.0,tt0104691
+1410,,1996.0,tt0116240
+1413,,1996.0,tt0118163
+1417,,1996.0,tt0117364
+1434,,1994.0,tt0123281
+1437,,1993.0,tt0106535
+1443,,1996.0,tt0117907
+1453,,1997.0,tt0118691
+1456,,1997.0,tt0119887
+1479,,1997.0,tt0120053
+1482,,1996.0,tt0118064
+1484,,1996.0,tt0116041
+1486,,1996.0,tt0117422
+1488,,1997.0,tt0118972
+1494,,1997.0,tt0120142
+1510,,1997.0,tt0118783
+1524,,1992.0,tt0105660
+1527,,1997.0,tt0119116
+1534,,1965.0,tt0058985
+1538,,1997.0,tt0120087
+1543,,1997.0,tt0118964
+1544,,1997.0,tt0119567
+1548,,1996.0,tt0118117
+1567,,1997.0,tt0119502
+1578,,1995.0,tt0113425
+1583,,1997.0,tt0120133
+1610,,1990.0,tt0099810
+1615,,1997.0,tt0119051
+1616,,1997.0,tt0119874
+1624,,1997.0,tt0120323
+1625,,1997.0,tt0119174
+1628,,1997.0,tt0119557
+1629,,1997.0,tt0119632
+1630,,1997.0,tt0123953
+1631,,1997.0,tt0118647
+1632,,1997.0,tt0120151
+1635,,1997.0,tt0119349
+1641,,1997.0,tt0119164
+1645,,1997.0,tt0118971
+1648,,1997.0,tt0119324
+1658,,1997.0,tt0119535
+1669,,1997.0,tt0120275
+1672,,1997.0,tt0119978
+1678,,1993.0,tt0107282
+1682,,1998.0,tt0120382
+1683,,1997.0,tt0120520
+1687,,1997.0,tt0119395
+1689,,1997.0,tt0120483
+1694,,1997.0,tt0118632
+1719,,1997.0,tt0120255
+1725,,1997.0,tt0119052
+1726,,1997.0,tt0119925
+1727,,1998.0,tt0119314
+1728,,1997.0,tt0120521
+1732,,1998.0,tt0118715
+1749,,1996.0,tt0116845
+1765,,1998.0,tt0119521
+1769,,1998.0,tt0120008
+1777,,1998.0,tt0120888
+1787,,1998.0,tt0145302
+1789,,1995.0,tt0114322
+1795,,1995.0,tt0112619
+1801,,1998.0,tt0120744
+1801,,1998.0,tt0141574
+1804,,1998.0,tt0120769
+1814,,1998.0,tt0120793
+1820,,1998.0,tt0120108
+1821,,1998.0,tt0120772
+1827,,1997.0,tt0124295
+1834,,1997.0,tt0120176
+1836,,1998.0,tt0120728
+1837,,1998.0,tt0120773
+1841,,1998.0,tt0119196
+1848,,1997.0,tt0118755
+1853,,1997.0,tt0118577
+1857,,1997.0,tt0119987
+1866,,1998.0,tt0120609
+1879,,1997.0,tt0125128
+1885,,1998.0,tt0120777
+1891,,1997.0,tt0120401
+1892,,1998.0,tt0120787
+1898,,1998.0,tt0119494
+1926,,1929.0,tt0019729
+1932,,1936.0,tt0027698
+1938,,1945.0,tt0037884
+1939,,1946.0,tt0036868
+1943,,1952.0,tt0044672
+1949,,1966.0,tt0060665
+1953,,1971.0,tt0067116
+1960,,1987.0,tt0093389
+1968,,1985.0,tt0088847
+1969,,1985.0,tt0089686
+1970,,1987.0,tt0093629
+1971,,1988.0,tt0095742
+1997,,1973.0,tt0070047
+1999,,1990.0,tt0099528
+2005,,1985.0,tt0089218
+2006,,1998.0,tt0120746
+2013,,1972.0,tt0069113
+2015,,1961.0,tt0054594
+2016,,1979.0,tt0078790
+2022,,1988.0,tt0095497
+2023,,1990.0,tt0099674
+2024,,1991.0,tt0102757
+2032,,1971.0,tt0066811
+2033,,1985.0,tt0088814
+2034,,1979.0,tt0078869
+2038,,1978.0,tt0077305
+2044,,1981.0,tt0082263
+2045,,1993.0,tt0106868
+2047,,1967.0,tt0061715
+2048,,1986.0,tt0091149
+2049,,1967.0,tt0061749
+2057,,1963.0,tt0057180
+2058,,1998.0,tt0120768
+2059,,1998.0,tt0120783
+2062,,1998.0,tt0120687
+2065,,1985.0,tt0089853
+2069,,1985.0,tt0090203
+2072,,1989.0,tt0096734
+2077,,1985.0,tt0089385
+2078,,1967.0,tt0061852
+2081,,1989.0,tt0097757
+2082,,1992.0,tt0104868
+2083,,1992.0,tt0104940
+2089,,1990.0,tt0100477
+2090,,1977.0,tt0076618
+2094,,1991.0,tt0102803
+2095,,1976.0,tt0075200
+2109,,1979.0,tt0079367
+2111,,1983.0,tt0085894
+2114,,1983.0,tt0086066
+2116,,1978.0,tt0077869
+2118,,1983.0,tt0085407
+2124,,1991.0,tt0101272
+2136,,1963.0,tt0057372
+2139,,1982.0,tt0084649
+2140,,1982.0,tt0083791
+2141,,1986.0,tt0090633
+2142,,1991.0,tt0101329
+2147,,1986.0,tt0090848
+2150,,1980.0,tt0080801
+2151,,1989.0,tt0097443
+2153,,1998.0,tt0118661
+2162,,1990.0,tt0100240
+2173,,1988.0,tt0095709
+2182,,1956.0,tt0051207
+2183,,1956.0,tt0049470
+2184,,1955.0,tt0048750
+2194,,1987.0,tt0094226
+2201,,1947.0,tt0039694
+2208,,1938.0,tt0030341
+2212,,1934.0,tt0025452
+2216,,1931.0,tt0022395
+2220,,1929.0,tt0020142
+2223,,1928.0,tt0018876
+2226,,1927.0,tt0018328
+2229,,1925.0,tt0016230
+2244,,1987.0,tt0092537
+2251,,1991.0,tt0101530
+2263,,1988.0,tt0096073
+2266,,1991.0,tt0101523
+2268,,1992.0,tt0104257
+2270,,1994.0,tt0109390
+2276,,1998.0,tt0120835
+2283,,1990.0,tt0100594
+2286,,1980.0,tt0080731
+2288,,1982.0,tt0084787
+2289,,1992.0,tt0105151
+2295,,1998.0,tt0120823
+2296,,1998.0,tt0120770
+2310,,1998.0,tt0119670
+2313,,1980.0,tt0080678
+2323,,1998.0,tt0150230
+2334,,1998.0,tt0133952
+2335,,1998.0,tt0120484
+2346,,1975.0,tt0073747
+2347,,1984.0,tt0087932
+2352,,1983.0,tt0085244
+2354,,1998.0,tt0134067
+2355,,1998.0,tt0120623
+2370,,1985.0,tt0089087
+2375,,1986.0,tt0091541
+2376,,1985.0,tt0090264
+2391,,1998.0,tt0120324
+2394,,1998.0,tt0120794
+2405,,1985.0,tt0089370
+2420,,1984.0,tt0087538
+2425,,1998.0,tt0120706
+2426,,1998.0,tt0120861
+2427,,1998.0,tt0120863
+2428,,1998.0,tt0133751
+2433,,1998.0,tt0120633
+2441,,1998.0,tt0120699
+2449,,1987.0,tt0093072
+2451,,1987.0,tt0093075
+2452,,1990.0,tt0099636
+2453,,1986.0,tt0090768
+2454,,1958.0,tt0051622
+2455,,1986.0,tt0091064
+2456,,1989.0,tt0097368
+2460,,1986.0,tt0092076
+2462,,1994.0,tt0110978
+2474,,1986.0,tt0090863
+2494,,1998.0,tt0174852
+2506,,1999.0,tt0123209
+2508,,1999.0,tt0181322
+2511,,1973.0,tt0070334
+2524,,1974.0,tt0072308
+2540,,1999.0,tt0142192
+2546,,1999.0,tt0120646
+2548,,1999.0,tt0144814
+2550,,1963.0,tt0057129
+2559,,1999.0,tt0160429
+2565,,1956.0,tt0049408
+2568,,1999.0,tt0120757
+2570,,1999.0,tt0120613
+2571,,1999.0,tt0133093
+2574,,1999.0,tt0129280
+2578,,1997.0,tt0127302
+2592,,1999.0,tt0139394
+2601,,1998.0,tt0119546
+2617,,1999.0,tt0120616
+2618,,1997.0,tt0118826
+2622,,1999.0,tt0140379
+2622,,1999.0,tt0422748
+2629,,1999.0,tt0166252
+2633,,1932.0,tt0023245
+2634,,1959.0,tt0053085
+2635,,1944.0,tt0037098
+2636,,1944.0,tt0037099
+2637,,1940.0,tt0032818
+2638,,1942.0,tt0035096
+2650,,1942.0,tt0034786
+2652,,1957.0,tt0050280
+2654,,1941.0,tt0034398
+2657,,1975.0,tt0073629
+2658,,1950.0,tt0042469
+2660,,1951.0,tt0044121
+2662,,1953.0,tt0046534
+2667,,1956.0,tt0049516
+2672,,1999.0,tt0139809
+2674,,1999.0,tt0126859
+2688,,1999.0,tt0144214
+2690,,1999.0,tt0122541
+2690,,1999.0,tt0160395
+2710,,1999.0,tt0185937
+2714,,1999.0,tt0161100
+2715,,1998.0,tt0120878
+2719,,1999.0,tt0171363
+2726,,1956.0,tt0049406
+2734,,1986.0,tt0091557
+2735,,1986.0,tt0091129
+2739,,1985.0,tt0088939
+2745,,1986.0,tt0091530
+2747,,1960.0,tt0054033
+2749,,1986.0,tt0091554
+2753,,1987.0,tt0092627
+2761,,1999.0,tt0129167
+2762,,1999.0,tt0167404
+2763,,1999.0,tt0155267
+2764,,1968.0,tt0063688
+2765,,1998.0,tt0122515
+2766,,1998.0,tt0168449
+2780,,1963.0,tt0057449
+2781,,1959.0,tt0053363
+2784,,1964.0,tt0058333
+2793,,1997.0,tt0118604
+2803,,1993.0,tt0107798
+2804,,1983.0,tt0085334
+2814,,1959.0,tt0052602
+2826,,1999.0,tt0120657
+2827,,1999.0,tt0138304
+2829,,1999.0,tt0164108
+2831,,1999.0,tt0160216
+2832,,1999.0,tt0144286
+2844,,1999.0,tt0151582
+2852,,1984.0,tt0088146
+2863,,1964.0,tt0058182
+2866,,1978.0,tt0077280
+2874,,1957.0,tt0050814
+2886,,1999.0,tt0159421
+2898,,1993.0,tt0106664
+2912,,1999.0,tt0165854
+2928,,1984.0,tt0087980
+2935,,1941.0,tt0033804
+2937,,1942.0,tt0035169
+2944,,1967.0,tt0061578
+2950,,1980.0,tt0080453
+2961,,1999.0,tt0160916
+2965,,1999.0,tt0203408
+2966,,1999.0,tt0166896
+2967,,1956.0,tt0048977
+2975,,1999.0,tt0168501
+2982,,1990.0,tt0099710
+2983,,1965.0,tt0059319
+3001,,1999.0,tt0157075
+3004,,1999.0,tt0120596
+3005,,1999.0,tt0145681
+3006,,1999.0,tt0140352
+3021,,1981.0,tt0082427
+3028,,1967.0,tt0061407
+3032,,1971.0,tt0067525
+3038,,1957.0,tt0050371
+3046,,1995.0,tt0113416
+3058,,1940.0,tt0032215
+3060,,1991.0,tt0101605
+3062,,1962.0,tt0056197
+3068,,1982.0,tt0084855
+3069,,1972.0,tt0068528
+3073,,1965.0,tt0059674
+3082,,1999.0,tt0143145
+3095,,1940.0,tt0032551
+3097,,1940.0,tt0033045
+3098,,1984.0,tt0087781
+3100,,1992.0,tt0105265
+3108,,1991.0,tt0101889
+3109,,1984.0,tt0088007
+3120,,1992.0,tt0104114
+3121,,1953.0,tt0045877
+3125,,1999.0,tt0172396
+3126,,1955.0,tt0048034
+3128,,1999.0,tt0160513
+3135,,1979.0,tt0079239
+3136,,1957.0,tt0050558
+3137,,1980.0,tt0081470
+3141,,1990.0,tt0100828
+3144,,1966.0,tt0060463
+3147,,1999.0,tt0120689
+3148,,1999.0,tt0124315
+3150,,1999.0,tt0141974
+3151,,1930.0,tt0020668
+3152,,1971.0,tt0067328
+3153,,1958.0,tt0051337
+3176,,1999.0,tt0134119
+3178,,1999.0,tt0174856
+3183,,1999.0,tt0174268
+3188,,1998.0,tt0208261
+3191,,1998.0,tt0169156
+3194,,1973.0,tt0070903
+3197,,1988.0,tt0095897
+3200,,1973.0,tt0070290
+3204,,1978.0,tt0077269
+3207,,1952.0,tt0045162
+3209,,1948.0,tt0040552
+3217,,1937.0,tt0029606
+3221,,1982.0,tt0083851
+3223,,1985.0,tt0090366
+3230,,1974.0,tt0071935
+3231,,1920.0,tt0011652
+3240,,1999.0,tt0156639
+3244,,1977.0,tt0076095
+3249,,1992.0,tt0104389
+3255,,1992.0,tt0104694
+3257,,1992.0,tt0103855
+3267,,1992.0,tt0104815
+3270,,1992.0,tt0104040
+3275,,1999.0,tt0144117
+3280,,1973.0,tt0069754
+3281,,1998.0,tt0144801
+3285,,2000.0,tt0163978
+3285,,2000.0,tt0326506
+3287,,2000.0,tt0220099
+3292,,1955.0,tt0047878
+3301,,2000.0,tt0190138
+3306,,1928.0,tt0018773
+3308,,1984.0,tt0087265
+3310,,1921.0,tt0012349
+3311,,1955.0,tt0048342
+3314,,1952.0,tt0044420
+3325,,2000.0,tt0156841
+3329,,1987.0,tt0094347
+3332,,1962.0,tt0056173
+3333,,1968.0,tt0063185
+3349,,1947.0,tt0039698
+3350,,1961.0,tt0055353
+3353,,2000.0,tt0218112
+3364,,1950.0,tt0042208
+3365,,1956.0,tt0049730
+3367,,1968.0,tt0062886
+3368,,1958.0,tt0051411
+3372,,1969.0,tt0064110
+3384,,1974.0,tt0072251
+3396,,1979.0,tt0079588
+3397,,1981.0,tt0082474
+3398,,1984.0,tt0087755
+3405,,1958.0,tt0051994
+3417,,1952.0,tt0044517
+3428,,1979.0,tt0078950
+3447,,1937.0,tt0028944
+3449,,1988.0,tt0095238
+3468,,1961.0,tt0054997
+3475,,1951.0,tt0043924
+3478,,1987.0,tt0093378
+3483,,2000.0,tt0138749
+3484,,2000.0,tt0192614
+3492,,1926.0,tt0017416
+3507,,1968.0,tt0063374
+3508,,1976.0,tt0075029
+3517,,1926.0,tt0016640
+3518,,1997.0,tt0119062
+3528,,1991.0,tt0102713
+3529,,1981.0,tt0082934
+3539,,2000.0,tt0236216
+3550,,1983.0,tt0085701
+3556,,1999.0,tt0159097
+3563,,2000.0,tt0132910
+3564,,2000.0,tt0158622
+3570,,1999.0,tt0180793
+3576,,1987.0,tt0093185
+3585,,1956.0,tt0049279
+3586,,1980.0,tt0080913
+3588,,1972.0,tt0068805
+3590,,1974.0,tt0071772
+3601,,1974.0,tt0071288
+3603,,1969.0,tt0064363
+3619,,1980.0,tt0080881
+3620,,1997.0,tt0119746
+3622,,1970.0,tt0066495
+3629,,1925.0,tt0015864
+3635,,1977.0,tt0076752
+3639,,1974.0,tt0071807
+3640,,1957.0,tt0050598
+3643,,1944.0,tt0036824
+3648,,1957.0,tt0050095
+3654,,1961.0,tt0054953
+3678,,1955.0,tt0048347
+3679,,1981.0,tt0082252
+3680,,1988.0,tt0094980
+3684,,1989.0,tt0097322
+3695,,1989.0,tt0098502
+3698,,1987.0,tt0093894
+3700,,1984.0,tt0087004
+3713,,1990.0,tt0100046
+3730,,1974.0,tt0071360
+3732,,1978.0,tt0077588
+3733,,1973.0,tt0070509
+3738,,1974.0,tt0072226
+3748,,1999.0,tt0165384
+3753,,2000.0,tt0187393
+3755,,2000.0,tt0177971
+3756,,2000.0,tt0200669
+3760,,1977.0,tt0076257
+3765,,1990.0,tt0099797
+3784,,2000.0,tt0219854
+3795,,1999.0,tt0168794
+3797,,2000.0,tt0163676
+3833,,1962.0,tt0052646
+3835,,1993.0,tt0106627
+3849,,1946.0,tt0038975
+3852,,2000.0,tt0234853
+3853,,1998.0,tt0165986
+3859,,2000.0,tt0233687
+3860,,1999.0,tt0138681
+3861,,2000.0,tt0191397
+3863,,2000.0,tt0209958
+3865,,2000.0,tt0236388
+3868,,1988.0,tt0095705
+3875,,1968.0,tt0062885
+3879,,2000.0,tt0160009
+3880,,2000.0,tt0236008
+3884,,2000.0,tt0198386
+3895,,2000.0,tt0204626
+3895,,2000.0,tt0296275
+3896,,2000.0,tt0202677
+3905,,2000.0,tt0181836
+3929,,1940.0,tt0032234
+3931,,1959.0,tt0052846
+3932,,1933.0,tt0024184
+3933,,1959.0,tt0052969
+3938,,1982.0,tt0084695
+3952,,2000.0,tt0208874
+29,the city of lost children,1995.0,tt0112682
+126,the neverending story iii,1994.0,tt0110647
+335,the underneath,1995.0,tt0114788
+792,a hungarian fairy tale,1987.0,tt0093199
+1871,a friend of the deceased,1997.0,tt0119952
+1972,a nightmare on elm street 5: the dream child,1989.0,tt0097981
+2161,the neverending story,1984.0,tt0088323
+2191,a merry war,1997.0,tt0119453
+2317,the alarmist,1997.0,tt0119534
+2467,the name of the rose,1986.0,tt0091605
+2493,the harmonists,1997.0,tt0128133
+2813,the source,1999.0,tt0181833
+2834,the very thought of you,1998.0,tt0120747
+2846,the adventures of milo and otis,1986.0,tt0097050
+2951,a fistful of dollars,1964.0,tt0058461
+3053,the messenger: the story of joan of arc,1999.0,tt0151137
+3211,a cry in the dark,1988.0,tt0094924
+3412,the bear,1988.0,tt0095800
+3874,a couch in new york,1996.0,tt0118018
+255,,,tt0110189
+730,,,tt0110400
+1125,,,tt0072081
+1130,,,tt0082533
+1554,,,tt0114134
+1781,,,tt0116379
+2299,,,tt0052607
+2343,,,tt0120767
+2343,,,tt0213920
+2611,,,tt0155388
+2695,,,tt0139898
+2740,,,tt0091343
+2769,,,tt0138946
+2913,,,tt0165874
+2994,,,tt0191038
+3169,,,tt0087231
+3348,,,tt0066141
+1868,the truce,,tt0117959
+121,,,tt0106473
+791,,,tt0113610
+984,,,tt0117357
+1010,,,tt0064603
+1024,,,tt0038166
+1296,,,tt0091867
+1699,,,tt0118804
+2040,,,tt0065566
+2300,,,tt0063462
+2783,,,tt0059821
+3022,,,tt0017925
+3321,,,tt0235872
+3355,,,tt0142688
+3487,,,tt0061619
+3488,,,tt0052888
+3566,,,tt0189584
+3653,,,tt0060371
+3693,,,tt0090190
+3771,,,tt0071569
+3789,,,tt0059575
+2157,the chambermaid on the titanic,,tt0129923
+119,steal big steal little,1995.0,tt0114536
+390,faster pussycat kill kill,1965.0,tt0059170
+477,whats love got to do with it,1993.0,tt0108551
+603,bye bye love,1995.0,tt0112606
+1008,davy crockett king of the wild frontier,1955.0,tt0047977
+1066,shall we dance,1937.0,tt0029546
+1460,that darn cat,1997.0,tt0120317
+1555,to have or not,1995.0,tt0112951
+1684,mrs dalloway,1997.0,tt0119723
+1916,buffalo 66,1998.0,tt0118789
+2171,next stop wonderland,1998.0,tt0119778
+2189,i married a strange person,1997.0,tt0119346
+2190,why do fools fall in love,1998.0,tt0123324
+2499,god said ha,1998.0,tt0119207
+2854,dont look in the basement,1973.0,tt0069994
+2981,brother can you spare a dime,1975.0,tt0072742
+2987,who framed roger rabbit,1988.0,tt0096438
+3112,night mother,1986.0,tt0090556
+3239,isnt she great,2000.0,tt0141399
+3296,to sir with love,1967.0,tt0062376
+3377,hangmen also die,1943.0,tt0035966
+3391,whos that girl,1987.0,tt0094321
+3401,baby secret of the lost legend,1985.0,tt0088760
+3420,and justice for all,1979.0,tt0078718
+3516,bell book and candle,1958.0,tt0051406
+3788,blowup,1966.0,tt0060176
+3878,x the unknown,1956.0,tt0049967
+3886,steal this movie,2000.0,tt0161216
+3847,ilsa she wolf of the ss,,tt0071650
+2586,goodbye lover,,tt0119219
+47,se7en,1995.0,tt0114369
+58,the postman,1994.0,tt0110877
+269,mi vida loca,1993.0,tt0107566
+561,bulletproof heart,1994.0,tt0110259
+582,café au lait,1993.0,tt0107642
+681,coup de torchon,1981.0,tt0082206
+718,les visiteurs,1993.0,tt0108500
+735,dellamorte dellamore,1994.0,tt0109592
+773,journey of the hyena,1973.0,tt0070820
+793,en compagnie d'antonin artaud,1993.0,tt0106810
+989,brother of sleep,1995.0,tt0114354
+1155,zaproszenie,1986.0,tt0092281
+1734,ma vie en rose,1997.0,tt0119590
+2595,fotoamator,1998.0,tt0188996
+2696,le dîner de cons,1998.0,tt0119038
+2869,la séparation,1994.0,tt0111342
+2934,el amor brujo,1986.0,tt0090636
+3192,malli,1998.0,tt0293385
+3407,les convoyeurs attendent,1999.0,tt0201538
+3655,la grande bouffe,1973.0,tt0070130
+3842,cannibal ferox,,tt0082700
+3216,las vampiras,,tt0063756
+30,shanghai triad,1995.0,tt0115012
+68,french twist,1995.0,tt0113149
+82,antonia's line,1995.0,tt0112379
+106,nobody loves me,1994.0,tt0110251
+213,burnt by the sun,1994.0,tt0111579
+214,before the rain,1994.0,tt0110882
+265,like water for chocolate,1992.0,tt0103994
+302,queen margot,1994.0,tt0110963
+305,ready to wear,1994.0,tt0110907
+326,to live,1994.0,tt0110081
+495,in the realm of the senses,1976.0,tt0074102
+526,savage nights,1992.0,tt0105032
+584,i don't want to talk about it,1993.0,tt0106678
+620,scream of stone,1991.0,tt0102855
+632,land and freedom,1995.0,tt0114671
+641,"little indian, big city",1994.0,tt0111543
+717,mouth to mouth,1995.0,tt0112546
+741,ghost in the shell,1995.0,tt0113568
+774,wend kuuni,1982.0,tt0084898
+775,spirits of the dead,1968.0,tt0063715
+780,independence day,1996.0,tt0116629
+794,midnight dancers,1994.0,tt0111180
+820,death in the garden,1956.0,tt0049521
+873,shadow of angels,1976.0,tt0075169
+922,sunset blvd.,1950.0,tt0043014
+1058,bitter sugar,1996.0,tt0115600
+1111,microcosmos,1996.0,tt0117040
+1132,manon of the spring,1986.0,tt0091480
+1211,wings of desire,1987.0,tt0093191
+1249,nikita,1990.0,tt0100263
+1261,evil dead ii,1987.0,tt0092991
+1300,my life as a dog,1985.0,tt0089606
+1306,until the end of the world,1991.0,tt0101458
+1329,blood for dracula,1974.0,tt0071233
+1348,nosferatu,1922.0,tt0013442
+1360,identification of a woman,1982.0,tt0084116
+1364,zero kelvin,1995.0,tt0113557
+1369,i can't sleep,1994.0,tt0110171
+1415,thieves,1996.0,tt0118100
+1450,prisoner of the mountains,1996.0,tt0116754
+1514,temptress moon,1996.0,tt0116295
+1537,shall we dance?,1996.0,tt0117615
+1564,roseanna's grave,1997.0,tt0120034
+1572,contempt,1963.0,tt0057345
+1643,mrs. brown,1997.0,tt0119280
+1741,midaq alley,1995.0,tt0112619
+1860,character,1997.0,tt0119448
+2019,seven samurai,1954.0,tt0047478
+2063,seventh heaven,1997.0,tt0124115
+2131,autumn sonata,1978.0,tt0077711
+2172,strike!,1998.0,tt0120692
+2192,see the sea,1997.0,tt0139564
+2324,life is beautiful,1997.0,tt0118799
+2351,nights of cabiria,1957.0,tt0050783
+2357,central station,1998.0,tt0140888
+2363,godzilla,1954.0,tt0047034
+2365,king kong vs. godzilla,1962.0,tt13364334
+2388,steam: the turkish bath,1997.0,tt0119248
+2480,dry cleaning,1997.0,tt0119773
+2557,i stand alone,1998.0,tt0157016
+2582,twin dragons,1992.0,tt0105399
+2591,jeanne and the perfect guy,1998.0,tt0123923
+2594,open your eyes,1997.0,tt0125659
+2614,chopping mall,1986.0,tt0090837
+2621,xiu xiu: the sent-down girl,1998.0,tt0115005
+2625,black mask,1996.0,tt0115693
+2630,besieged,1998.0,tt0149723
+2673,eternity and a day,1998.0,tt0156794
+2692,run lola run,1998.0,tt0130827
+2705,"late august, early september",1998.0,tt0167925
+2742,ménage,1986.0,tt0092068
+2773,alice and martin,1998.0,tt0176422
+2801,oscar and lucinda,1997.0,tt0119843
+2830,cabaret balkan,1998.0,tt0169145
+2839,west beirut,1998.0,tt0157183
+2843,"black cat, white cat",1998.0,tt0118843
+2920,children of paradise,1945.0,tt0037674
+2938,man facing southeast,1986.0,tt0091214
+3002,my best fiend,1999.0,tt0200849
+3003,train of life,1998.0,tt0170705
+3080,"goodbye, 20th century",1998.0,tt0179196
+3083,all about my mother,1999.0,tt0185125
+3086,march of the wooden soldiers,1934.0,tt0024852
+3172,ulysses,1954.0,tt0047630
+3205,black sunday,1960.0,tt0054067
+3224,woman in the dunes,1964.0,tt0058625
+3227,"not love, just frenzy",1996.0,tt0117131
+3237,kestrel's eye,1998.0,tt0183065
+3266,man bites dog,1992.0,tt0103905
+3277,beloved/friend,1999.0,tt0185154
+3289,not one less,1999.0,tt0209189
+3320,mifune,1999.0,tt0164756
+3369,any number can win,1963.0,tt0057344
+3458,blood and sand,1989.0,tt0098251
+3485,autopsy,1975.0,tt0073327
+3493,torso,1973.0,tt0069920
+3503,solaris,1972.0,tt0069293
+3589,"kill, baby... kill!",1966.0,tt0060794
+3636,those who love me can take the train,1998.0,tt0118834
+3637,vagabond,1985.0,tt0089960
+3652,city of the living dead,1980.0,tt0081318
+3746,butterfly,2000.0,tt0257460
+3761,"blood in, blood out",1993.0,tt0106469
+3787,shower,1999.0,tt0215369
+3800,criminal lovers,1999.0,tt0205735
+3832,black sabbath,1963.0,tt0057603
+3867,all the rage,1999.0,tt0176426
+3892,anatomy,2000.0,tt0187696
+3902,goya in bordeaux,1999.0,tt0210717
+615,bread and chocolate,,tt0070506
+649,cold fever,,tt0109028
+2732,jules and jim,,tt0055032
+2879,operation condor,,tt0099558
+2972,red sorghum,,tt0093206
+3583,black tights,,tt0053726
+3650,anguish,,tt0090644
+3772,hatchet for the honeymoon,,tt0064904
+573,"ciao, professore!",,tt0107225
+583,dear diary,,tt0109382
+2238,seven beauties,,tt0075040
+2239,swept away,,tt0073817
+2924,drunken master,,tt0080179
+2931,time of the gypsies,,tt0097223
+3202,even dwarfs started small,,tt0065436
+3808,two women,,tt0054749
+59,the confessional,1995.0,tt0112714
+80,the white balloon,1995.0,tt0112445
+124,the star maker,1995.0,tt0114808
+199,the umbrellas of cherbourg,1964.0,tt0058450
+363,"the wonderful, horrible life of leni riefenstahl",1993.0,tt0107472
+570,the slingshot,1993.0,tt0107349
+601,the wooden man's bride,1994.0,tt0111752
+617,the flower of my secret,1995.0,tt0113083
+670,the world of apu,1959.0,tt0052572
+715,the horseman on the roof,1995.0,tt0113362
+758,the jar,1992.0,tt0104606
+763,the last of the high kings,1996.0,tt0116833
+797,the old lady who walked in the sea,1991.0,tt0103207
+827,the convent,1995.0,tt0112716
+845,the day the sun turned cold,1994.0,tt0111424
+854,the ballad of narayama,1958.0,tt0051980
+978,the blue angel,1930.0,tt0020697
+1116,a single girl,1995.0,tt0113057
+1117,the eighth day,1996.0,tt0116581
+1150,the return of martin guerre,1982.0,tt0084589
+1161,the tin drum,1979.0,tt0078875
+1216,the big blue,1988.0,tt0094738
+1216,the big blue,1988.0,tt0095250
+1218,the killer,1989.0,tt0097202
+1233,the boat,1981.0,tt0082096
+1237,the seventh seal,1957.0,tt0050976
+1533,the promise,1996.0,tt0117398
+2074,the night porter,1974.0,tt0071910
+2156,the best man,1997.0,tt0133413
+2309,the inheritors,1998.0,tt0141824
+2360,the celebration,1998.0,tt0154420
+2483,the day of the beast,1995.0,tt0112922
+2503,the apple,1998.0,tt0156901
+2544,the school of flesh,1998.0,tt0157208
+2575,the dreamlife of angels,1998.0,tt0120449
+2593,the monster,1994.0,tt0110570
+2593,the monster,1994.0,tt0260155
+2609,the king of masks,1996.0,tt0115669
+2632,the saragossa manuscript,1965.0,tt0059643
+2685,the red dwarf,1998.0,tt0156820
+2686,the red violin,1998.0,tt0120802
+2691,the legend of 1900,1998.0,tt0120731
+2704,the lovers on the bridge,1991.0,tt0101318
+2731,the 400 blows,1959.0,tt0053198
+2760,the gambler,1997.0,tt0129111
+2790,the final conflict,1981.0,tt0082377
+2911,the grandfather,1998.0,tt0176415
+2925,the conformist,1970.0,tt0065571
+2933,the fire within,1963.0,tt0057058
+2969,a man and a woman,1966.0,tt0061138
+3085,the living dead girl,1982.0,tt0084357
+3241,the cup,1999.0,tt0201840
+3378,the ogre,1996.0,tt0118043
+3456,the color of paradise,1999.0,tt0191043
+3533,an actor's revenge,1963.0,tt0057710
+3569,the idiots,1998.0,tt0154421
+3651,the blood spattered bride,1972.0,tt0069029
+3816,the official story,1985.0,tt0089276
+3817,the other side of sunday,1996.0,tt0117817
+3855,an affair of love,1999.0,tt0204709
+1368,the forbidden christ,,tt0042354
+2512,the ballad of narayama,,tt0084390
+3558,the law,,tt0051852
+3630,the house of exorcism,,tt3420392
+690,the promise,,tt0274741
+3158,the emperor and the assassin,,tt0162866
+3416,the trial,,tt0057427
+1900,children of heaven,1997.0,tt0118849
+2155,slums of beverly hills,1998.0,tt0120831
+2495,fantastic planet,1973.0,tt0070544
+2585,lovers of the arctic circle,1998.0,tt0133363
+2708,autumn tale,1998.0,tt0137439
+2995,house on haunted hill,1999.0,tt0185371
+3000,princess mononoke,1997.0,tt0119698
+3140,three ages,1923.0,tt0014538
+3145,cradle will rock,1999.0,tt0150216
+3415,mirror,1975.0,tt0072443
+3670,story of g.i. joe,1945.0,tt0038120
+3742,battleship potemkin,1925.0,tt0015648
+3822,girl on the bridge,1999.0,tt0144201
+3930,creature from the black lagoon,1954.0,tt0046876
+3936,phantom of the opera,1943.0,tt0036261
+3939,slumber party massacre ii,1987.0,tt0093996
+3940,slumber party massacre iii,1990.0,tt0100639
+3907,prince of central park,,tt0170452
+1698,boys,,tt0115742
+3904,uninvited guest,,tt0188694
+140,up close & personal,1996.0,tt0118055
+328,tales from the crypt: demon knight,1995.0,tt0114608
+411,martin lawrence: you so crazy,1994.0,tt0111804
+549,thirty two short films about glenn gould,1993.0,tt0108328
+638,jack & sarah,1995.0,tt0113448
+655,my mother's courage,1995.0,tt0117117
+842,bordello of blood,1996.0,tt0117826
+855,un week-end sur deux,1990.0,tt0100840
+872,vive l'amour,1994.0,tt0109066
+1059,romeo + juliet,1996.0,tt0117509
+1073,willy wonka & the chocolate factory,1971.0,tt0067992
+1109,charms zwischenfälle,1996.0,tt0115870
+1243,rosencrantz & guildenstern are dead,1990.0,tt0100519
+1374,star trek ii: the wrath of khan,1982.0,tt0084726
+1609,187: documented,1997.0,tt0118532
+1646,rocketman,1997.0,tt0120029
+1706,tar,1996.0,tt0116490
+1713,mousehunt,1997.0,tt0119715
+1739,3 ninjas: high noon at mega mountain,1998.0,tt0118539
+1757,fallen angels,1995.0,tt0112913
+1768,mother and son,1997.0,tt0119711
+1771,the night flier,1997.0,tt0119784
+1792,u.s. marshals,1998.0,tt0120873
+1793,welcome to woop woop,1997.0,tt0120491
+2107,halloween h20: 20 years later,1998.0,tt0120694
+2304,love is the devil: study for a portrait of francis bacon,1998.0,tt0119577
+2386,ringmaster,1998.0,tt0165494
+2423,national lampoon's christmas vacation,1989.0,tt0097958
+2542,"lock, stock and two smoking barrels",1998.0,tt0120735
+2655,howling ii: ... your sister is a werewolf,1985.0,tt0089308
+2700,"south park: bigger, longer & uncut",1999.0,tt0158983
+2776,marcello mastroianni: i remember,1997.0,tt0119614
+2837,bedrooms and hallways,1998.0,tt0126810
+2845,whiteboyz,1999.0,tt0178988
+2919,the year of living dangerously,1982.0,tt0086617
+3130,the bonfire of the vanities,1990.0,tt0099165
+3278,gendernauts: a journey through shifting identities,1999.0,tt0192069
+3337,i'll never forget what's'isname,1967.0,tt0061801
+3399,follow that bird,1985.0,tt0089994
+3568,smiling fish & goat on fire,1999.0,tt0162348
+3577,two moon junction,1988.0,tt0096324
+3602,g.i. blues,1960.0,tt0053848
+3623,mission: impossible ii,2000.0,tt0120755
+3626,8 ½ women,1999.0,tt0154443
+3722,american virgin,1999.0,tt0143422
+3762,daughter of dr. jekyll,1957.0,tt0050292
+3850,what ever happened to aunt alice?,1969.0,tt0065206
+3851,margaret cho: i'm the one that i want,2000.0,tt0251739
+3856,the autumn heart,1999.0,tt0120593
+3876,jerry and tom,1998.0,tt0120867
+3890,backstage,2000.0,tt0259207
+73,"misérables, les",1995.0,tt0077936
+142,shadows (cienie),1988.0,tt0245718
+220,castle freak,1995.0,tt10701458
+226,dream man,1995.0,tt0101770
+231,dumb & dumber,1994.0,tt0109686
+242,farinelli: il castrato,1994.0,tt0109771
+253,interview with the vampire,1994.0,tt1860252
+284,new york cop,1996.0,tt0368893
+512,robert a. heinlein's the puppet masters,1994.0,tt0111003
+545,harlem,1993.0,tt0034950
+571,"wedding gift, the",1994.0,tt0847585
+651,"superweib, das",1996.0,tt0117788
+693,under the domin tree (etz hadomim tafus),1994.0,tt0109751
+695,true crime,1995.0,tt0139668
+723,two friends,1986.0,1986
+770,costa brava,1946.0,tt0109489
+771,"vie est belle, la (life is rosey)",1987.0,tt0161066
+807,"rendezvous in paris (rendez-vous de paris, les)",1995.0,tt0176090
+821,"crude oasis, the",1995.0,tt0112746
+1081,victor/victoria,1982.0,tt0265987
+1119,drunks,1997.0,tt0112907
+1164,two or three things i know about her,1966.0,tt0060304
+1166,farmer & chase,1995.0,tt0113031
+1201,"good, the bad and the ugly, the",1966.0,tt5083572
+1298,pink floyd - the wall,1982.0,tt0084503
+1319,kids of survival,1993.0,tt0107314
+1349,nosferatu a venezia,1986.0,tt0091651
+1351,blood & wine,1997.0,tt0859643
+1423,hearts and minds,1996.0,tt0071604
+1433,"machine, the",1994.0,tt0933079
+1474,jungle2jungle (a.k.a. jungle 2 jungle),1997.0,tt0119432
+1692,alien escape,1995.0,tt0112318
+1697,"big bang theory, the",1994.0,tt1147717
+1716,"other voices, other rooms",1997.0,tt0119845
+1720,time tracers,1995.0,tt0128755
+1756,"prophecy ii, the",1998.0,tt0114194
+1830,follow the bitch,1998.0,tt0119139
+1873,"misérables, les",1998.0,tt0077936
+1976,friday the 13th part 3: 3d,1982.0,tt0080761
+2085,101 dalmatians,1961.0,tt011543
+2102,steamboat willie,1940.0,tt0019422
+2159,henry: portrait of a serial killer,1990.0,tt0099763
+2163,attack of the killer tomatoes!,1980.0,tt0080391
+2227,"lodger, the",1926.0,tt0037024
+2421,"karate kid, part ii, the",1986.0,tt0426060
+2516,children of the corn iii,1994.0,tt0087050
+2564,"empty mirror, the",1999.0,tt0116192
+2795,vacation,1983.0,tt0015452
+2800,little nemo: adventures in slumberland,1992.0,tt0104740
+2853,"communion (a.k.a. alice, sweet alice/holy terror)",1977.0,tt0188223
+2923,citizen's band (a.k.a. handle with care),1977.0,tt0359987
+2952,"hard 8 (a.k.a. sydney, a.k.a. hard eight)",1996.0,tt0119256
+3027,slaughterhouse 2,1988.0,tt0093990
+3042,meatballs iii,1987.0,tt0079540
+3064,poison ivy: new seduction,1997.0,tt0105156
+3065,ten benny,1997.0,tt0114008
+3123,spring fever usa (a.k.a. lauderdale),1989.0,tt0097717
+3132,daddy long legs,1919.0,tt0021775
+3234,train ride to hollywood,1978.0,tt0078412
+3242,santitos,1997.0,tt0126651
+3245,i am cuba (soy cuba/ya kuba),1964.0,tt0058604
+3265,hard-boiled (lashou shentan),1992.0,tt0104684
+3336,it happened here,1961.0,tt0055024
+3463,last resort,1994.0,tt0091387
+3464,solar crisis,1993.0,tt0100649
+3472,horror hotel (a.k.a. the city of the dead),1960.0,tt0053719
+3694,"toxic avenger, part ii, the",1989.0,tt0090190
+3703,mad max 2 (a.k.a. the road warrior),1981.0,tt0079501
+3796,"wisdom of crocodiles, the (a.k.a. immortality)",2000.0,tt0120894
+3864,godzilla 2000 (gojira ni-sen mireniamu),1999.0,tt0120685
+3900,crime and punishment in suburbia,2000.0,tt0096056
+3914,"broken hearts club, the",2000.0,tt1194103
+3935,kronos,1973.0,tt0050610
