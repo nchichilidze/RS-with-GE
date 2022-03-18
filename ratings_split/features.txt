@@ -1,0 +1,23 @@
+1 CBF
+2 CF
+
+3 is_favourite_genre
+4 ML_rating 
+5 ML_votes
+
+6 age_at_rating
+7 age_at_release
+8 born_before
+9 gender
+
+10 IMDB_rating
+11 IMDB_votes 
+12 is_adult 
+13 runtime_minutes
+
+14 is_english
+15 budget
+16 popularity 
+17 TMDB_rating
+18 TMDB_votes 
+19 revenue
