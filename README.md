@@ -9,7 +9,7 @@ algorithm when given 19 movie-related features including (a content-based filter
 This recommender system can be considered a hybrid recommender system as it uses both the collaborative and content-based filtering in
 addition to dozens of other features.
 
-🌷 The final product is located in the \submission directory 
+🌷 The final product is located in the /submission directory 
 
 * rs-with-ge.ipynb - notebook with data preprocessing, feature engineering and a singular 500 generation GE run resulting in an improved RMSE 
 * quantitative_experiments.ipynb - notebook with 15 250 generation GE runs resulting in a mean\avg RMSE improvement compared to the SVD CF algorithm
