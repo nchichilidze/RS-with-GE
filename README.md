@@ -30,3 +30,5 @@ addition to dozens of other features.
 * SimpleTMDB
 * Surprise
 * Sklearn
+
+https://github.com/nchichilidze/RS-with-GE/
